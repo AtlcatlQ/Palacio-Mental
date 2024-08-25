@@ -1,0 +1,188 @@
+{
+  "addDendronNotes": false,
+  "addDateNotes": false,
+  "aliasesInIndex": false,
+  "alphaSortAsc": true,
+  "altLinkFields": [],
+  "CSVPaths": "",
+  "createIndexIndent": "  ",
+  "dateFormat": "YYYY-MM-DD",
+  "dateNoteFormat": "yyyy-MM-dd",
+  "dateNoteField": "next",
+  "dataviewNoteField": "up",
+  "dateNoteAddMonth": "",
+  "dateNoteAddYear": "",
+  "debugMode": "WARN",
+  "dendronNoteDelimiter": ".",
+  "dendronNoteField": "up",
+  "dvWaitTime": 5000,
+  "enableAlphaSort": false,
+  "enableRelationSuggestor": false,
+  "fieldSuggestor": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "jugglLayout": "hierarchy",
+  "limitWriteBCCheckboxes": [
+    "categorías",
+    "relacionadas",
+    "incluido",
+    "siguientes",
+    "previas",
+    "fuente",
+    "referencia",
+    "autor",
+    "obra",
+    "citado",
+    "etiquetas"
+  ],
+  "CHECKBOX_STATES_OVERWRITTEN": false,
+  "gridDefaultDepth": 0,
+  "hierarchyNotes": [
+    ""
+  ],
+  "hierarchyNoteIsParent": false,
+  "HNUpField": "",
+  "indexNotes": [
+    ""
+  ],
+  "namingSystemField": "",
+  "namingSystemRegex": "",
+  "namingSystemSplit": ".",
+  "namingSystemEndsWithDelimiter": false,
+  "refreshOnNoteChange": false,
+  "useAllMetadata": true,
+  "openMatrixOnLoad": true,
+  "openDuckOnLoad": false,
+  "openDownOnLoad": false,
+  "parseJugglLinksWithoutJuggl": false,
+  "showNameOrType": true,
+  "showRelationType": true,
+  "regexNoteField": "",
+  "relSuggestorTrigger": "\\",
+  "rlLeaf": true,
+  "showAllPathsIfNoneToIndexNote": false,
+  "showAllAliases": true,
+  "showBCs": true,
+  "showBCsInEditLPMode": false,
+  "showRefreshNotice": true,
+  "showImpliedRelations": true,
+  "showTrail": true,
+  "showGrid": false,
+  "showJuggl": false,
+  "showPrevNext": true,
+  "sortByNameShowAlias": false,
+  "squareDirectionsOrder": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "limitTrailCheckboxes": [
+    "categorías",
+    "fuente",
+    "autor",
+    "etiquetas"
+  ],
+  "limitJumpToFirstFields": [
+    "categorías",
+    "relacionadas",
+    "incluido",
+    "siguientes",
+    "previas",
+    "fuente",
+    "referencia",
+    "autor",
+    "obra",
+    "citado",
+    "etiquetas"
+  ],
+  "showAll": "Longest",
+  "noPathMessage": "Huérfano",
+  "tagNoteField": "",
+  "threadIntoNewPane": false,
+  "threadingTemplate": "{{field}} of {{current}}",
+  "threadingDirTemplates": {
+    "up": "",
+    "same": "",
+    "down": "",
+    "next": "",
+    "prev": ""
+  },
+  "threadUnderCursor": false,
+  "trailSeperator": ">",
+  "treatCurrNodeAsImpliedSibling": false,
+  "trimDendronNotes": false,
+  "respectReadableLineLength": true,
+  "userHiers": [
+    {
+      "up": [
+        "categorías"
+      ],
+      "same": [
+        "relacionadas"
+      ],
+      "down": [
+        "incluido"
+      ],
+      "next": [
+        "siguientes"
+      ],
+      "prev": [
+        "previas"
+      ]
+    },
+    {
+      "up": [
+        "fuente"
+      ],
+      "same": [
+        "relacionadas"
+      ],
+      "down": [
+        "citado"
+      ],
+      "next": [],
+      "prev": [
+        "referencia"
+      ]
+    },
+    {
+      "up": [
+        "autor"
+      ],
+      "same": [],
+      "down": [
+        "obra"
+      ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [
+        "etiquetas"
+      ],
+      "same": [],
+      "down": [],
+      "next": [],
+      "prev": []
+    }
+  ],
+  "writeBCsInline": false,
+  "showWriteAllBCsCmd": false,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true,
+  "impliedRelations": {
+    "siblingIdentity": false,
+    "sameParentIsSibling": false,
+    "siblingsSiblingIsSibling": false,
+    "siblingsParentIsParent": false,
+    "parentsSiblingsIsParents": false,
+    "parentsParentsIsParent": false,
+    "cousinsIsSibling": false
+  },
+  "refreshOnNoteSave": true,
+  "showUpInJuggl": false
+}

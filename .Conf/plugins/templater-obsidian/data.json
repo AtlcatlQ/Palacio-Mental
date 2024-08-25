@@ -1,0 +1,40 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "A-Utilidades/A.2-Plantillas",
+  "templates_pairs": [],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "A-Utilidades/A.2-Plantillas/NUEVA NOTA.md"
+    },
+    {
+      "folder": "Escritura/0-Ideas",
+      "template": "A-Utilidades/A.2-Plantillas/A.2.0-Auxiliar/0.1.C-Ideas.md"
+    },
+    {
+      "folder": "Escritura/1-ProyectosDeEscritura",
+      "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/1.C-Proyecto de Escritura.md"
+    },
+    {
+      "folder": "0-ENTRADA/0.1-CAPTURA",
+      "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/0.1-Captura.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "A-Utilidades/A.2-Plantillas/A.2.1-Formato/HTML/Firma.md",
+    "A-Utilidades/A.2-Plantillas/A.2.1-Formato/Resaltados Manuales.md",
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

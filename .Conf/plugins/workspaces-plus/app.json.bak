@@ -1,0 +1,63 @@
+{
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es-419",
+    "ca",
+    "en-GB",
+    "de-DE",
+    "de",
+    "en",
+    "en-US",
+    "es",
+    "es-AR",
+    "es-ES",
+    "es-US",
+    "es-MX"
+  ],
+  "useTab": false,
+  "vimMode": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "B. Adjuntos",
+  "userIgnoreFilters": [
+    "6. ARCHIVO",
+    "*.ini"
+  ],
+  "showInlineTitle": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 85
+  },
+  "mobilePullAction": "quickadd:runQuickAdd",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bullet-list",
+    "obsidian-smarter-md-hotkeys:smarter-asterisk-bold",
+    "obsidian-smarter-md-hotkeys:smarter-asterisk-italics",
+    "highlightr-plugin:highlighter-plugin-menu",
+    "quickadd:choice:3d5090e6-ea28-4029-9761-c2e332b67574",
+    "quickadd:choice:fcde02fa-845e-47b2-a17a-5b095a8987a7",
+    "editor:context-menu",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "obsidian-smarter-md-hotkeys:smarter-wikilink",
+    "obsidian-smarter-md-hotkeys:smarter-md-link",
+    "obsidian-smarter-md-hotkeys:smarter-math",
+    "obsidian-smarter-md-hotkeys:smarter-callout-label",
+    "obsidian-outliner:indent-list",
+    "obsidian-smarter-md-hotkeys:smarter-wikilink-heading",
+    "obsidian-outliner:outdent-list",
+    "quickadd:choice:f502dca5-766f-426d-93b3-830666d198eb",
+    "obsidian-smarter-md-hotkeys:smarter-inline-code",
+    "editor:toggle-source"
+  ]
+}

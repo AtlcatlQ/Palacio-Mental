@@ -1,0 +1,26 @@
+{
+  "highlighterStyle": "realistic",
+  "highlighterMethods": "css-classes",
+  "highlighters": {
+    "Cyan": "#ABF7F7A6",
+    "Yellow": "#FFD400A6",
+    "Green": "#5FB236A6",
+    "Blue": "#2EA8E5A6",
+    "Red": "#FF6666A6",
+    "Gray": "#AAAAAAA6",
+    "Magenta": "#E56EEEA6",
+    "Orange": "#F19837A6",
+    "Purple": "#A28AE5A6"
+  },
+  "highlighterOrder": [
+    "Yellow",
+    "Green",
+    "Blue",
+    "Red",
+    "Gray",
+    "Cyan",
+    "Magenta",
+    "Orange",
+    "Purple"
+  ]
+}

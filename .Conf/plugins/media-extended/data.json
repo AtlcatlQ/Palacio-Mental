@@ -1,0 +1,30 @@
+{
+  "defaultVolume": 100,
+  "devices": [
+    {
+      "appId": "676e384b85768cc2",
+      "name": "DESKTOP-9DVFN85"
+    }
+  ],
+  "defaultMxLinkClick": {
+    "click": "split",
+    "alt": "window"
+  },
+  "linkHandler": {
+    "mx-embed": [],
+    "mx-url-audio": [],
+    "mx-url-video": [],
+    "mx-webpage": []
+  },
+  "speedStep": 0.1,
+  "loadStrategy": "play",
+  "timestampTemplate": "({{TIMESTAMP}})",
+  "screenshotTemplate": "\n- [ ] ({{TIMESTAMP}}): !{{SCREENSHOT}} ",
+  "screenshotEmbedTemplate": "400",
+  "insertBefore": false,
+  "timestampOffset": -2,
+  "biliDefaultQuality": 64,
+  "screenshotFormat": "image/png",
+  "screenshotQuality": 1,
+  "urlMappingData": []
+}
