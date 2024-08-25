@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
+                "file": "A-Utilidades/Prueba de Temas.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "A-Utilidades/Prueba de Temas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "A-Utilidades/Prueba de Temas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "A-Utilidades/Prueba de Temas.md"
               }
             }
           },
@@ -156,6 +156,16 @@
   },
   "active": "3193c234710cfd47",
   "lastOpenFiles": [
-    "Welcome.md"
+    "4-ARCHIVO",
+    "Nueva carpeta",
+    "5-REGISTRO",
+    "Welcome.md",
+    "A-Utilidades/Prueba de Temas.md",
+    "B-Adjuntos",
+    "A-Utilidades",
+    "4-REGISTRO",
+    "2-AREAS",
+    "1-PROYECTOS",
+    "0-ENTRADA"
   ]
 }
