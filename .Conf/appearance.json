@@ -4,5 +4,10 @@
   "textFontFamily": "Segoe UI",
   "monospaceFontFamily": "JetBrains Mono NL",
   "baseFontSizeAction": true,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ],
+  "cssTheme": "AnuPpuccin"
 }
