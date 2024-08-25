@@ -1,2 +1,4 @@
 .Conf/app.json
+.Conf/workspace.json
 .Conf/core-plugins.json
+*.ttf
