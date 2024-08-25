@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "45276eb8c789c8e3",
+        "id": "8fd1cdbb9dc54427",
         "type": "tabs",
         "children": [
           {
-            "id": "57cc026eaaf4ccc0",
+            "id": "32e2b5ef2fd072b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-Utilidades/Prueba de Temas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5dfc76e2629650d3",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-Utilidades/Prueba de Temas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-Utilidades/Prueba de Temas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A-Utilidades/Prueba de Temas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,19 +157,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "effa6ee52c06973f",
+  "active": "32e2b5ef2fd072b4",
   "lastOpenFiles": [
-    "A-Utilidades/Prueba de Temas.md",
+    "0-ENTRADA/Obsidian - Plugins Útiles.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Typewriter Scroll.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Tracker.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Zotero Integration.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Wrap With Shortcuts.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Toggl Track Integration for Obsidian.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Templater.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Tag Wrangler.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Smarter Markdown Hotkeys.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Supercharged Links.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Style Settings.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Sequence Hotkeys.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Relative Line Numbers (Obsidian Plugin).md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Quiet Outline.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Quick Latex for Obsidian.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Random Structural Diary.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/QuickAdd.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Periodic Notes.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Outliner.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Minimal Settings.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Omnivore (Obsidian Plugin).md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Paste Image Rename.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Pane Relief.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Metadata Menu.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Linter (Obsidian Plugin).md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community/Google Calendar Obsidian Integration.md",
+    "A-Utilidades/A.3-Plugins/A.3.2-Community",
+    "A-Utilidades/A.3-Plugins/A.3.1-Core",
+    "A-Utilidades/A.3-Plugins",
     "6-Flujo",
     "Nueva carpeta",
     "4-ARCHIVO",
     "5-REGISTRO",
-    "Welcome.md",
     "B-Adjuntos",
     "A-Utilidades",
-    "4-REGISTRO",
-    "2-AREAS",
-    "1-PROYECTOS",
-    "0-ENTRADA"
+    "4-REGISTRO"
   ]
 }

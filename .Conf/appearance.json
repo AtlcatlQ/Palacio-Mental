@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Nunito",
   "textFontFamily": "Segoe UI",
   "monospaceFontFamily": "JetBrains Mono NL",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
 }
