@@ -4,10 +4,20 @@
   "textFontFamily": "Segoe UI",
   "monospaceFontFamily": "JetBrains Mono NL",
   "baseFontSizeAction": true,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "extended-colorschemes",
-    "custom-rainbow-colors"
+    "custom-rainbow-colors",
+    "Bold",
+    "Align-Elements",
+    "Headings",
+    "Justify",
+    "Quotes",
+    "SIRvb-Embed-Adjustments",
+    "SIRvb-Images-Adjustments",
+    "Sizes",
+    "supercharged-links",
+    "tables"
   ],
   "cssTheme": "AnuPpuccin"
 }
