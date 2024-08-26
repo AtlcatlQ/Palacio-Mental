@@ -1,0 +1,1 @@
+<div class="signature"><span class="author"><% tp.file.cursor(0) %></span></div>
