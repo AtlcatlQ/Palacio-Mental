@@ -134,7 +134,9 @@
     "table-editor-obsidian:delete-row",
     "periodic-notes:prev-quarterly-note",
     "obsidian-another-quick-switcher:grep",
-    "theme:switch"
+    "theme:switch",
+    "obsidian-git:open-history-view",
+    "obsidian-git:open-git-view"
   ],
   "hiddenFiles": [],
   "hiddenTags": [],
