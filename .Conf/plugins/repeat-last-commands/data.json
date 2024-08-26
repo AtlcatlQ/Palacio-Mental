@@ -1,0 +1,11 @@
+{
+  "maxLastCmds": 10,
+  "notify": true,
+  "aliases": {},
+  "sort": true,
+  "userExcludedIDs": [],
+  "ifNoCmdOpenCmdPalette": true,
+  "includeCmdPaletteOPen": false,
+  "showCmdId": true,
+  "excludeCommands": []
+}

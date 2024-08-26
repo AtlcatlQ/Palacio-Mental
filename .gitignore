@@ -1,0 +1,6 @@
+.Conf/app.json
+.Conf/workspace.json
+.Conf/core-plugins.json
+.Conf/plugins/recent-files-obsidian/data.json
+.Conf/plugins/obsidian-day-and-night/data.json
+*.ttf

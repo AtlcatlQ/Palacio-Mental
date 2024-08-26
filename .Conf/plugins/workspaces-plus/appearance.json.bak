@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "Nunito",
+  "textFontFamily": "Segoe UI",
+  "monospaceFontFamily": "Cascadia Mono,JetBrains Mono,Cascadia Code",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Align-Elements",
+    "Bold",
+    "Headings",
+    "iframe",
+    "Imágenes",
+    "Quotes",
+    "Sizes",
+    "supercharged-links-gen",
+    "supercharged-links",
+    "mermaid",
+    "Gráficos"
+  ],
+  "baseFontSize": 16
+}

@@ -1,0 +1,3 @@
+/* Justificado de Párrafos*/
+
+.markdown-preview-view p, .markdown-rendered p {text-align: justify; text-indent: 2em;}

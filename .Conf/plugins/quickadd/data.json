@@ -1,0 +1,481 @@
+{
+  "choices": [
+    {
+      "id": "51a61f96-f40c-419f-b518-4f1bb27adbd7",
+      "name": "🔝 Caché",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "6-Flujo/1-Caché.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{value:🔝 Caché}} ^{{DATE:YYYY-MM-DDTHHmmss}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# 🔝 Caché",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7048c4b9-7710-4638-9d05-c8d95dbb6d9c",
+      "name": "📒 Diario",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "a2670ae1-7d99-4200-861c-6de914a13c70",
+          "name": "📒 Bitácora",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIO/{{DATE}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "\n- {{value:📒 Bitácora}} ^{{DATE:HHmmss}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "8838767c-bb0a-4380-b841-2d5386802f28",
+          "name": "🛟 Resaltado",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIO/{{DATE}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "\n- (Resaltado:: {{value: 🛟 Resaltado}}) ^{{DATE:HHmmss}}\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "076fad5b-47d3-4124-8951-28d62140855d",
+          "name": "🔂 Hábitos",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIO/{{DATE}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "<% tp.file.include(\"[[Bitácora-Hábitos]]\") -%>"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "460ca495-e9f9-495f-bbae-758d98411306",
+          "name": "🦉 Idiomas",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIO/{{DATE}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "<% tp.file.include(\"[[Bitácora-Idiomas]]\") %>"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "c49fe94d-2113-4af5-880b-8d800681f5b0",
+          "name": "🍽️ Alimentación",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIO/{{DATE}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "<%* \n\nlet tiempo = await tp.system.suggester([\"🌄 Desayuno\", \"🏙️ Almuerzo\", \"🌃 Cena\"], [\"Desayuno\", \"Almuerzo\", \"Cena\"], true, \"Sugerencias\");\n\nlet comida = await tp.system.prompt(\"🍽️ Comida\", \"\", true);\n\ntR += `\\n- 🍽️ [${tiempo}:: ${comida}] \\n`;_%>\n"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "f95583a1-1645-4105-bf8d-600d4e988056",
+          "name": "🥾 Inicio (Boot)",
+          "type": "Macro",
+          "command": true,
+          "macroId": "466fc1c4-e6d8-4a59-b74b-e01c78d1470b"
+        },
+        {
+          "id": "0b89427a-35c6-47e0-a566-fbc73b6541f9",
+          "name": "🎵 Canción Del Día",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIO/{{DATE}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "<% tp.file.include(\"[[Bitácora-Canción]]\") -%>"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "57550df1-e69a-42d0-a4c4-8996633e95e2",
+      "name": "🆕 Nuevas Notas",
+      "type": "Multi",
+      "command": true,
+      "choices": [
+        {
+          "id": "debb8c50-1299-4b74-bc79-8ddd7e4d9569",
+          "name": "🆕 NUEVA NOTA",
+          "type": "Template",
+          "command": true,
+          "templatePath": "A-Utilidades/A.2-Plantillas/NUEVA NOTA.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "0-ENTRADA"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "41429eb7-95aa-4b95-a036-36528878603e",
+          "name": "📂 Crear Nota en Carpeta",
+          "type": "Template",
+          "command": true,
+          "templatePath": "A-Utilidades/A.2-Plantillas/NUEVA NOTA.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [],
+            "chooseWhenCreatingNote": true,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        },
+        {
+          "id": "b16e9256-5884-4a77-81f6-3c49abf9acb9",
+          "name": "📥 Nota de Captura",
+          "type": "Template",
+          "command": true,
+          "templatePath": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/0.1-Captura.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "0-ENTRADA/0.1-CAPTURA",
+              "Escritura/0-Ideas",
+              "0-ENTRADA/0.1.1-Libros"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default",
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": true
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "c998ac34-0c8c-41b5-938b-cf02720b0948",
+      "name": "⌨️ Typing Context",
+      "type": "Macro",
+      "command": true,
+      "macroId": "e9c2cc8d-13d2-48be-902e-b5d5198e2f8c"
+    }
+  ],
+  "macros": [
+    {
+      "name": "🥾 Inicio (Boot)",
+      "id": "466fc1c4-e6d8-4a59-b74b-e01c78d1470b",
+      "commands": [
+        {
+          "name": "Workspaces Plus: Load: 🥾 Inicio (Boot)",
+          "type": "Obsidian",
+          "id": "7813b319-40a5-4724-b5d6-aeccce71fdc6",
+          "commandId": "workspaces-plus:🥾 Inicio (Boot)"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "c3562d9b-4d17-423b-b25c-f9231f3cf287",
+          "time": 100
+        },
+        {
+          "name": "Close all other tabs",
+          "type": "Obsidian",
+          "id": "7c6ba647-5936-46a2-b7d6-1463ab66c999",
+          "commandId": "workspace:close-others"
+        },
+        {
+          "name": "Periodic Notes: Open daily note",
+          "type": "Obsidian",
+          "id": "cfd2e605-a14f-4ac0-b1af-bd102dcab690",
+          "commandId": "periodic-notes:open-daily-note"
+        }
+      ],
+      "runOnStartup": true
+    },
+    {
+      "name": "⌨️ Typing Context",
+      "id": "e9c2cc8d-13d2-48be-902e-b5d5198e2f8c",
+      "commands": [
+        {
+          "name": "Typewriter Scroll: Toggle On/Off",
+          "type": "Obsidian",
+          "id": "3af475a4-d267-494c-bb35-1d6fe6dd6854",
+          "commandId": "cm-typewriter-scroll-obsidian:toggle-typewriter-sroll"
+        },
+        {
+          "name": "Smarter Markdown Hotkeys: Toggle Line Numbers",
+          "type": "Obsidian",
+          "id": "b8baec30-9ea7-4f9b-8a74-709e3a618b74",
+          "commandId": "obsidian-smarter-md-hotkeys:toggle-line-numbers"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "A-Utilidades/A.2-Plantillas",
+  "announceUpdates": true,
+  "version": "1.11.0",
+  "disableOnlineFeatures": true,
+  "enableRibbonIcon": false,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

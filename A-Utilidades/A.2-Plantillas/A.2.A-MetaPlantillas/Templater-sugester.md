@@ -1,0 +1,1 @@
+<% tp.system.suggester(["Opción 1", "Opción 2", "Opción 3"], ["Valor 1", "Valor 2", "Valor 3"], false, "Sugerencias") %>
