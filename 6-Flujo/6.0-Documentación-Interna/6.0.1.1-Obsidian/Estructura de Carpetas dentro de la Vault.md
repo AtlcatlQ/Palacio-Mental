@@ -8,7 +8,7 @@ aliases:
   - Folders
 publish: true
 created: 2023-03-31T21:51:28
-modified: 2024-05-30T21:32:08
+modified: 2024-08-26T18:20:49
 sr-due: 2023-07-23
 sr-ease: 241
 sr-interval: 48
@@ -59,7 +59,7 @@ sr-interval: 48
             2. 🌞 *Madurando:* Escritos que estoy guardando porque quiero darles un respiro y que revisaré más adelante
             3. 🗑️ Descartados
         - 🔌 *Plugins Descartados:* Plugins que ya he revisado pero que he encontrado poco útiles para mi flujo de trabajo o que ya no son compatibles con obsidian.
-    5. ㊙️ **[[2. Acerca de llevar un Diario|REGISTRO]]:** Carpeta dónde llevo el [[2. Acerca de llevar un Diario|Diario]] y las [[Tipos de Ficheros#REGISTRO|Notas Personales]] ^Registro
+    5. ㊙️ **[[2. Acerca de llevar un Diario|REGISTRO]]:** Carpeta donde llevo el [[2. Acerca de llevar un Diario|Diario]] y las [[Tipos de Ficheros#REGISTRO|Notas Personales]] ^Registro
         1. 📆 Diario
         2. 🗓️ Semanal
         3. 📅 Mensual
