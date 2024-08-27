@@ -6,21 +6,12 @@
         "type": "split",
         "children": [
           {
-            "id": "26082bed264d54f4",
+            "id": "e64a8284176e0e24",
             "type": "tabs",
             "children": [
               {
-                "id": "e115419195d3dd7d",
+                "id": "0164e5e214021d9d",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "empty",
                   "state": {}
@@ -42,15 +33,6 @@
               {
                 "id": "1d4b816789790ddc",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "google-calendar-view-day",
                   "state": {}
@@ -59,15 +41,6 @@
               {
                 "id": "b6355455bd41fcc0",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "bookmarks",
                   "state": {}
@@ -76,15 +49,6 @@
               {
                 "id": "356c5885126a40b2",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "recent-files",
                   "state": {}
@@ -93,15 +57,6 @@
               {
                 "id": "1a02b87c2385eaf9",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "file-tree-view",
                   "state": {}
@@ -110,15 +65,6 @@
               {
                 "id": "ff08f47dcd66e927",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "search",
                   "state": {
@@ -134,15 +80,6 @@
               {
                 "id": "610f07f58edb39a6",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "tag",
                   "state": {
@@ -154,15 +91,6 @@
               {
                 "id": "9411c96d91da6022",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "all-properties",
                   "state": {
@@ -189,15 +117,6 @@
               {
                 "id": "b9995de93237965c",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "calendar",
                   "state": {}
@@ -206,15 +125,6 @@
               {
                 "id": "2b3a70d015bc0510",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "backlink",
                   "state": {
@@ -231,15 +141,6 @@
               {
                 "id": "93f2f77a5c2663cf",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "outgoing-link",
                   "state": {
@@ -251,15 +152,6 @@
               {
                 "id": "5dee2d7991c1d7bc",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "BC-matrix",
                   "state": {}
@@ -280,6 +172,14 @@
                   "type": "BC-ducks",
                   "state": {}
                 }
+              },
+              {
+                "id": "d43497eb7684c6b7",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {}
+                }
               }
             ]
           },
@@ -290,15 +190,6 @@
               {
                 "id": "531f71381282881e",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "quiet-outline",
                   "state": {}
@@ -307,15 +198,6 @@
               {
                 "id": "3b0d65f4c8047bdf",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "file-properties",
                   "state": {}
@@ -324,15 +206,6 @@
               {
                 "id": "fd83629857a5671b",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "localgraph",
                   "state": {
@@ -367,15 +240,6 @@
               {
                 "id": "ad7589fd0cea6a33",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "trash-explorer",
                   "state": {}
@@ -384,36 +248,22 @@
               {
                 "id": "9d615b20fdc0c2aa",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "5-REGISTRO/Prioridades Actuales.md",
-                    "mode": "preview",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "cc08d57c85c62003",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
                 }
               },
               {
                 "id": "a5be446fef406642",
                 "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
                 "state": {
                   "type": "toggl-report",
                   "state": {}
@@ -428,7 +278,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           }
         ],
         "direction": "horizontal",
@@ -455,11 +305,8 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "e115419195d3dd7d",
-      "ophidian:layout-settings": {
-        "pane-relief:focus-lock": true
-      },
-      "mtime": "2024-04-30T21:58:12-06:00",
+      "active": "0164e5e214021d9d",
+      "mtime": "2024-08-26T18:36:31-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": []
       }

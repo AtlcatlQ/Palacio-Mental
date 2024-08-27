@@ -3,4 +3,5 @@
 .Conf/core-plugins.json
 .Conf/plugins/recent-files-obsidian/data.json
 .Conf/plugins/obsidian-day-and-night/data.json
+.Conf/plugins/file-tree-alternative/data.json
 *.ttf

@@ -136,7 +136,11 @@
     "obsidian-another-quick-switcher:grep",
     "theme:switch",
     "obsidian-git:open-history-view",
-    "obsidian-git:open-git-view"
+    "obsidian-git:open-git-view",
+    "obsidian-git:edit-remotes",
+    "templater-obsidian:replace-in-file-templater",
+    "templater-obsidian:jump-to-next-cursor-location",
+    "insert-template"
   ],
   "hiddenFiles": [],
   "hiddenTags": [],
