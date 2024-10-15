@@ -6,11 +6,11 @@
         "type": "split",
         "children": [
           {
-            "id": "e64a8284176e0e24",
+            "id": "da0984c8f821df86",
             "type": "tabs",
             "children": [
               {
-                "id": "0164e5e214021d9d",
+                "id": "64a7836f7d00184f",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -246,39 +246,15 @@
                 }
               },
               {
-                "id": "9d615b20fdc0c2aa",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "cc08d57c85c62003",
                 "type": "leaf",
                 "state": {
                   "type": "git-view",
                   "state": {}
                 }
-              },
-              {
-                "id": "a5be446fef406642",
-                "type": "leaf",
-                "state": {
-                  "type": "toggl-report",
-                  "state": {}
-                }
-              },
-              {
-                "id": "b672facc8c20901a",
-                "type": "leaf",
-                "state": {
-                  "type": "reminder-list",
-                  "state": {}
-                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           }
         ],
         "direction": "horizontal",
@@ -286,6 +262,8 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "obsidian-git:Open Git source control": false,
           "cmdr:Excalidraw: Create new drawing - IN A POPOUT WINDOW - and embed into active document": false,
           "media-extended:Open media": false,
           "obsidian-day-and-night:Toggle Theme": false,
@@ -305,8 +283,8 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "0164e5e214021d9d",
-      "mtime": "2024-08-26T18:36:31-06:00",
+      "active": "64a7836f7d00184f",
+      "mtime": "2024-10-13T20:59:38-06:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": []
       }
