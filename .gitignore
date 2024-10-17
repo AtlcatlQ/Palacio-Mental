@@ -5,3 +5,6 @@
 .Conf/plugins/obsidian-day-and-night/data.json
 .Conf/plugins/file-tree-alternative/data.json
 *.ttf
+*.png
+*.jpg
+*.pdf

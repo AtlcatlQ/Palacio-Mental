@@ -1,1 +1,0 @@
-<% tp.system.prompt("Descripción", "Por Defecto", false) %>
