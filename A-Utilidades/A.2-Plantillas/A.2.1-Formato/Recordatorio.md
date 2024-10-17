@@ -1,1 +1,0 @@
-%% (@<% tp.system.prompt("⏰ Recuerdame", tp.date.now("YYYY-MM-DDTHH:mm", 1), true, false) %>) %%

@@ -1,14 +1,1 @@
-{
-  "strictLineBreaks": true,
-  "propertiesInDocument": "source",
-  "showLineNumber": true,
-  "useTab": false,
-  "vimMode": true,
-  "trashOption": "local",
-  "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "0-ENTRADA",
-  "showUnsupportedFiles": true,
-  "attachmentFolderPath": "B-Adjuntos"
-}
+{}
