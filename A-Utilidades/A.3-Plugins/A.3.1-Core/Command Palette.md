@@ -15,10 +15,10 @@ sr-interval: 182
 
 **description**:: Sirve para acceder fácilmente a diversas acciones sin tener que memorizar los atajos.
 
-**comentario**:: Uso en su lugar [[Better Command Palette]]. Si se quiere tener comandos fijados en este otro plugin, hay que tener activo este.
+**comentario**:: Uso en su lugar [[Better Command Palette]]. Pero si se requiere tener comandos fijados en este otro plugin, hay que tener activo este.
 
 [enlace:: [Command Palette (Ayuda de Obsidian)](https://help.obsidian.md/Plugins/Command+palette)]
 
 # Pinned Commands
 
-#🔔 %% Creo que voy a utilizar esto para fijar comandos en móvil, así únicamente uso esto, en lugar de un multi de QuickAdd %%
+- 

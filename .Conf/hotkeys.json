@@ -426,5 +426,21 @@
       ],
       "key": "T"
     }
+  ],
+  "cmdr:open-commander-settings": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "obsidian-better-command-palette:open-better-commmand-palette": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
   ]
 }
