@@ -13,6 +13,6 @@ modified: 2023-05-26T21:27:03
 
 **description**:: Muestra la cantidad de palabras que tiene el documento en la Barra de estado
 
-**comentario**:: Sí se ocupa su funcionalidad, es mejor usar [[Better Word Count]]
+**comentario**:: Si se ocupa su funcionalidad, es mejor usar [[Better Word Count]]
 
 [enlace:: [Word Count (Ayuda de Obsidian)](https://help.obsidian.md/Plugins/Word+count)]
