@@ -2,13 +2,10 @@
 icon: '⭐'
 tags: [⚙️/🔌]
 status: '✔️'
-aliases:
-  - Starred
-  - Resaltados
-  - Marcadores
+aliases: [Marcadores, Resaltados, Starred]
 publish: true
 created: 2023-10-02T09:27:07
-modified: 2023-12-31T14:43:57
+modified: 2024-11-22T00:11:33
 ---
 
 **description**:: Permite resaltar diversos elementos ([[File Tree Alternative|Carpetas]], [[Graph View|Vistas de Grafo]], [[Search|Búsquedas]], Notas Individuales, Grupos de Notas, [[Prueba de Temas#Heading 1|Encabezados]], Bloques) para poder acceder a ellos más rápidamente.
