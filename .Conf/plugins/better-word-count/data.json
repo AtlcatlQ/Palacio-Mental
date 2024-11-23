@@ -1,0 +1,59 @@
+{
+  "statusBar": [
+    {
+      "prefix": "",
+      "suffix": " s, ",
+      "metric": {
+        "type": 0,
+        "counter": 2
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "w, ",
+      "metric": {
+        "type": 0,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "c, ",
+      "metric": {
+        "type": 0,
+        "counter": 1
+      }
+    }
+  ],
+  "altBar": [
+    {
+      "prefix": "",
+      "suffix": "W, ",
+      "metric": {
+        "type": 1,
+        "counter": 0
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "D, ",
+      "metric": {
+        "type": 1,
+        "counter": 6
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": "T, ",
+      "metric": {
+        "type": 2,
+        "counter": 6
+      }
+    }
+  ],
+  "countComments": true,
+  "collectStats": true,
+  "displaySectionCounts": true,
+  "pageWords": 300,
+  "statsPath": ".Conf/vault-stats.json"
+}
