@@ -186,7 +186,14 @@
       "key": "F"
     }
   ],
-  "editor:save-file": [],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
   "editor:toggle-bold": [],
   "editor:toggle-checklist-status": [],
   "editor:toggle-comments": [],
@@ -645,6 +652,33 @@
         "Shift"
       ],
       "key": "'"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:replace-in-file-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }
