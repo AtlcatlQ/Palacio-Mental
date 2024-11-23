@@ -1,0 +1,2 @@
+- [ ] [{location}]({url}) %% {localdatetime} %%: {highlight} ^{uuid}
+    - [ ] {notes}

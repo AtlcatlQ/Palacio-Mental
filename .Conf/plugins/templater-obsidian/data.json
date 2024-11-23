@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "/",
+      "template": "A-Utilidades/A.2-Plantillas/NUEVA NOTA.md"
     }
   ],
   "enable_file_templates": false,
@@ -29,7 +29,10 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
-    ""
+    "A-Utilidades/A.2-Plantillas/A.2.1-Formato/HTML/Firma.md",
+    "A-Utilidades/A.2-Plantillas/A.2.1-Formato/Bitácora-Idiomas.md",
+    "A-Utilidades/A.2-Plantillas/A.2.1-Formato/Bitácora-Hábitos.md",
+    "A-Utilidades/A.2-Plantillas/A.2.1-Formato/Bitácora-Alimentación.md"
   ],
   "startup_templates": [
     ""
