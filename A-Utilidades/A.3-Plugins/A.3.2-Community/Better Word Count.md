@@ -1,7 +1,10 @@
 ---
-tags: ["⚙️/🔌"]
-status: 🔳
-aliases: ["Mejor Contador de Palabras", "Contador de Palabras Mejorado"]
+tags:
+  - ⚙️/🔌
+status: ✔️
+aliases:
+  - Mejor Contador de Palabras
+  - Contador de Palabras Mejorado
 publish: false
 created: 2023-05-02T10:55:35
 modified: 2023-05-07T22:49:56
