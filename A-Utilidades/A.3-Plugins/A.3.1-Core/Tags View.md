@@ -1,19 +1,11 @@
 ---
-icon: 🗂️
-tags:
-  - ⚙️/🔌
-status: ✔️
-aliases:
-  - Panel de Etiquetas
-  - Tag Pane
-  - Tags
-  - Etiquetas
+icon: "🗂️"
+tags: [⚙️/🔌]
+status: "✔️"
+aliases: [Etiquetas, Panel de Etiquetas, Tag Pane, Tags]
 publish: true
-sr-due: 2023-09-03
-sr-interval: 203
-sr-ease: 290
 created: 2023-05-01T12:47:03
-modified: 2023-10-16T20:20:52
+modified: 2024-11-23T16:59:33
 ---
 
 (siguientes:: [[Tag Wrangler]]) >

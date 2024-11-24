@@ -3,7 +3,7 @@
   "useTab": false,
   "propertiesInDocument": "source",
   "showLineNumber": true,
-  "vimMode": false,
+  "vimMode": true,
   "promptDelete": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
@@ -11,5 +11,6 @@
   "newFileFolderPath": "0-ENTRADA",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "B-Adjuntos",
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "readableLineLength": true
 }

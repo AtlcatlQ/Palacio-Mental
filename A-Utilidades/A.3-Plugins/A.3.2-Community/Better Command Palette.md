@@ -1,13 +1,10 @@
 ---
 tags: [⚙️/🔌]
-status: ✔️
+status: "✔️"
 aliases: ["Paleta de comandos mejorada"]
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2023-05-26T20:59:36
-sr-due: 2023-11-24
-sr-interval: 182
-sr-ease: 255
+modified: 2024-11-23T16:44:13
 ---
 
 < (previas:: [[Command Palette]])
@@ -40,11 +37,11 @@ sr-ease: 255
 - Hotkey Modifier Style: `Force Windows Hotkeys`
 
 > [!note]+ Apuntes
-> 
+>
 > - No utilizo los macros de este plugin, sino los de [[QuickAdd]]
 > - No utilizo este plugin para realizar búsquedas de archivos sino el de [[Another Quick Switcher]]
 
-> [!warning] Para revisar los commandos que se muestran y se ocupan consultar los [Atajos de Obsidian.xlsx|atajos de Obsidian](https://docs.google.com/spreadsheets/d/1j9q-h96zXB5u_vA18QJwON9wskohBmhIePMU1doOSBc/edit?usp=sharing).
+> [!warning] Para revisar los commandos que se muestran y se ocupan consultar los [[Atajos de Obsidian.xlsx|Commandos de Obsidian]].
 
 ---
 

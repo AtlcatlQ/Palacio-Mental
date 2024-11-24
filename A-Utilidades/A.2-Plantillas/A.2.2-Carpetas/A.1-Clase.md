@@ -1,0 +1,4 @@
+---
+tags: ["⚙️/🗂️"]
+extends: Generic
+---

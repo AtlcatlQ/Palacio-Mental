@@ -4,5 +4,12 @@
   "better-word-count",
   "obsidian-smarter-md-hotkeys",
   "obsidian-linter",
-  "templater-obsidian"
+  "templater-obsidian",
+  "tag-wrangler",
+  "obsidian-quiet-outline",
+  "dataview",
+  "metadata-menu",
+  "table-editor-obsidian",
+  "obsidian-sequence-hotkeys",
+  "settings-search"
 ]

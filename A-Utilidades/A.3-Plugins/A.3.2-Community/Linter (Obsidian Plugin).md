@@ -75,6 +75,9 @@ modified: 2024-11-22T00:14:45
     - favorito
     - private
     - activo
+    - sr-due
+    - sr-ease
+    - sr-interval
 - Sort YAML Array Values: `TRUE`
     - Sort YAML aliases section: `TRUE`
     - Sort YAML tags section: `TRUE`
