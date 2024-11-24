@@ -680,5 +680,16 @@
       ],
       "key": "T"
     }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
   ]
 }
