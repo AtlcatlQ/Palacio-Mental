@@ -1,0 +1,130 @@
+{
+  "hotkeys": [
+    {
+      "command": "editor:table-col-align-right",
+      "chords": [
+        "A-Backquote",
+        "KeyL"
+      ]
+    },
+    {
+      "command": "editor:table-col-copy",
+      "chords": [
+        "A-Backquote",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "editor:table-row-copy",
+      "chords": [
+        "A-Backquote",
+        "S-KeyD"
+      ]
+    },
+    {
+      "command": "editor:table-row-after",
+      "chords": [
+        "A-Backquote",
+        "S-KeyA"
+      ]
+    },
+    {
+      "command": "editor:table-col-after",
+      "chords": [
+        "A-Backquote",
+        "KeyA"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:sort-rows-ascending",
+      "chords": [
+        "A-Backquote",
+        "KeyS"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:sort-rows-descending",
+      "chords": [
+        "A-Backquote",
+        "S-KeyS"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:transpose",
+      "chords": [
+        "A-Backquote",
+        "KeyT"
+      ]
+    },
+    {
+      "command": "editor:insert-table",
+      "chords": [
+        "A-Backquote",
+        "KeyN"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:escape-table",
+      "chords": [
+        "A-Backquote",
+        "Enter"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:center-align-column",
+      "chords": [
+        "A-Backquote",
+        "KeyK"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:delete-column",
+      "chords": [
+        "A-Backquote",
+        "Backspace"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:delete-row",
+      "chords": [
+        "A-Backquote",
+        "S-Backspace"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:insert-column",
+      "chords": [
+        "A-Backquote",
+        "KeyI"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:insert-row",
+      "chords": [
+        "A-Backquote",
+        "S-KeyI"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:left-align-column",
+      "chords": [
+        "A-Backquote",
+        "KeyJ"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:move-column-left",
+      "chords": [
+        "A-Backquote",
+        "S-KeyM"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:move-column-right",
+      "chords": [
+        "A-Backquote",
+        "KeyM"
+      ]
+    }
+  ]
+}
