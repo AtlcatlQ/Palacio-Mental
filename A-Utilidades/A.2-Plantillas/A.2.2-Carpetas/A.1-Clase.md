@@ -1,5 +1,4 @@
 ---
-tags: ["🗂️"]
-mapWithTag: true
+tags: ["⚙️/🗂️"]
 extends: Generic
 ---
