@@ -30,6 +30,6 @@
   "showFileClassSelectInModal": true,
   "chooseFileClassAtFileCreation": false,
   "autoInsertFieldsAtFileClassInsertion": false,
-  "fileClassIcon": "package",
+  "fileClassIcon": "database",
   "isAutoCalculationEnabled": true
 }
