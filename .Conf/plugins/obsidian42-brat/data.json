@@ -1,0 +1,16 @@
+{
+  "pluginList": [
+    "chrisgrieser/obsidian-smarter-md-hotkeys"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "enableAfterInstall": false,
+  "loggingEnabled": true,
+  "loggingPath": "B-Adjuntos/BRAT-LOG",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": true,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}
