@@ -5,7 +5,7 @@ status: '✔️'
 aliases: [Cadenas de Atajos, Secuencia de Atajos, Secuencia de Comandos, Sequence Hotkeys]
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2024-12-01T17:34:23
+modified: 2024-12-02T03:12:51
 ---
 
 **description**:: Permite añadir una secuencia de atajos para ejecutar comandos
@@ -90,8 +90,6 @@ modified: 2024-12-01T17:34:23
 | [[5.4-Nota Trimestral\|Nota Trimestral]] | <kbd>Q</kbd>uarterly |        <kbd>Q</kbd>        |
 | [[5.5-Nota Anual\|Nota Anual]]           | <kbd>Y</kbd>early    |        <kbd>Y</kbd>        |
 
-%%
-
 ## Tabs
 
 > [!abstract] Raíz:  
@@ -101,13 +99,15 @@ modified: 2024-12-01T17:34:23
 
 | Acción                           |            Atajo            |
 | -------------------------------- |:---------------------------:|
-| Close All other Tabs in Group    |        <kbd>W</kbd>         |
+| Close others in tab group        |        <kbd>W</kbd>         |
 | Close this Tab Group             | <kbd>⇧</kbd> + <kbd>W</kbd> |
 | Move Current Tab to New Window   |        <kbd>M</kbd>         |
 | Toggle default mode for new tabs |              -              |
 | Toggle stacked tabs              |        <kbd>S</kbd>         |
 | Split Right                      |        <kbd>D</kbd>         |
 | Split Down                       |              -              |
+
+%%
 
 ### [[Pane Relief]]
 

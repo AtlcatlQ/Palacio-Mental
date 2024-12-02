@@ -244,6 +244,34 @@
         "C-A-KeyD",
         "KeyY"
       ]
+    },
+    {
+      "command": "workspace:close-others-tab-group",
+      "chords": [
+        "C-A-S-KeyW",
+        "KeyW"
+      ]
+    },
+    {
+      "command": "workspace:close-tab-group",
+      "chords": [
+        "C-A-S-KeyW",
+        "S-KeyW"
+      ]
+    },
+    {
+      "command": "workspace:open-in-new-window",
+      "chords": [
+        "C-A-S-KeyW",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "workspace:toggle-stacked-tabs",
+      "chords": [
+        "C-A-S-KeyW",
+        "KeyS"
+      ]
     }
   ]
 }
