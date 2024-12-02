@@ -125,6 +125,125 @@
         "A-Backquote",
         "KeyM"
       ]
+    },
+    {
+      "command": "templater-obsidian:A-Utilidades/A.2-Plantillas/A.2.1-Formato/Bitácora-Hábitos.md",
+      "chords": [
+        "A-S-KeyD",
+        "KeyH"
+      ]
+    },
+    {
+      "command": "templater-obsidian:A-Utilidades/A.2-Plantillas/A.2.1-Formato/Bitácora-Idiomas.md",
+      "chords": [
+        "A-S-KeyD",
+        "KeyL"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyY"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyY"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyY"
+      ]
     }
   ]
 }

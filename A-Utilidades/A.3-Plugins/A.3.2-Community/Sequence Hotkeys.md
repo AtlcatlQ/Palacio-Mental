@@ -5,7 +5,7 @@ status: '✔️'
 aliases: [Cadenas de Atajos, Secuencia de Atajos, Secuencia de Comandos, Sequence Hotkeys]
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2024-11-23T23:39:02
+modified: 2024-12-01T17:34:23
 ---
 
 **description**:: Permite añadir una secuencia de atajos para ejecutar comandos
@@ -50,8 +50,6 @@ modified: 2024-11-23T23:39:02
 | Ordenar de forma Descendente (`S`ort) | <kbd>⇧</kbd> + <kbd>S</kbd> |
 | Ordenar de forma Ascendente  (`s`ort) |        <kbd>S</kbd>         |
 
-%%
-
 ## [[2. Acerca de llevar un Diario|Diario]]
 
 ### Entradas Básicas
@@ -84,13 +82,15 @@ modified: 2024-11-23T23:39:02
 
 | Período                                  | Mnemónica            |           Atajo            |
 | ---------------------------------------- | -------------------- |:--------------------------:|
-| Previo                                   | Previous             |  <kbd>⇧</kbd> + *Período*  |
+| Previo                                   | Previous             |  <kbd>⇧</kbd> + *Período*[]  |
 | Siguientes                               |                      | <kbd>Alt</kbd> + *Período* |
 | [[5.1-Nota Diaria\|Nota Diaria]]         | <kbd>D</kbd>aily     |        <kbd>D</kbd>        |
 | [[5.2-Nota Semanal\|Nota Semanal]]       | <kbd>W</kbd>eekly    |        <kbd>W</kbd>        |
 | [[5.3-Nota Mensual\|Nota Mensual]]       | <kbd>M</kbd>onthly   |        <kbd>M</kbd>        |
 | [[5.4-Nota Trimestral\|Nota Trimestral]] | <kbd>Q</kbd>uarterly |        <kbd>Q</kbd>        |
 | [[5.5-Nota Anual\|Nota Anual]]           | <kbd>Y</kbd>early    |        <kbd>Y</kbd>        |
+
+%%
 
 ## Tabs
 
