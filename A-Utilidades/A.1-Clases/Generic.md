@@ -8,27 +8,29 @@ publish: false
 created: 2024-11-23T22:34:27
 modified: 2024-11-23T22:39:28
 fields:
-  - name: aliases
-    type: Input
-    options: {}
-    path: ""
-  - name: cssclasses
-    type: Input
-    options: {}
-    path: ""
   - name: publish
     type: Boolean
     options: {}
     path: ""
+    id: TDxw0i
+  - name: aliases
+    type: Input
+    options: {}
+    path: ""
+    id: rqN4b8
+  - name: cssclasses
+    type: Input
+    options: {}
+    path: ""
+    id: IhRoUu
   - name: description
     type: Input
     options: {}
     path: ""
-    id: JD5CL6
-version: "2.2101"
+    id: XQishk
 limit: 20
 mapWithTag: false
-icon: package
+icon: database
 tagNames: 
 filesPaths: 
 bookmarksGroups: 
@@ -37,7 +39,9 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - 
-  - 
-  - 
+  - rqN4b8
+  - TDxw0i
+  - IhRoUu
+  - XQishk
+version: "2.12"
 ---
