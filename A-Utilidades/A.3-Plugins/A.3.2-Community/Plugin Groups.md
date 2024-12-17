@@ -60,7 +60,7 @@ modified: 2024-11-27T02:06:43
     - Command Palette
     - Better Command Palette
 - 🔄 Automatización
-    - QuickAdd
+    - [[QuickAdd]]
 - 🔌 Plugins
     - Plugins Groups
     - Plugin Update Trackers

@@ -127,20 +127,6 @@
       ]
     },
     {
-      "command": "templater-obsidian:A-Utilidades/A.2-Plantillas/A.2.1-Formato/Bitácora-Hábitos.md",
-      "chords": [
-        "A-S-KeyD",
-        "KeyH"
-      ]
-    },
-    {
-      "command": "templater-obsidian:A-Utilidades/A.2-Plantillas/A.2.1-Formato/Bitácora-Idiomas.md",
-      "chords": [
-        "A-S-KeyD",
-        "KeyL"
-      ]
-    },
-    {
       "command": "periodic-notes:open-daily-note",
       "chords": [
         "C-A-KeyD",
@@ -271,6 +257,41 @@
       "chords": [
         "C-A-S-KeyW",
         "KeyS"
+      ]
+    },
+    {
+      "command": "quickadd:choice:c78d54a3-3c28-4436-aaf9-9d64d3eaa19d",
+      "chords": [
+        "A-KeyD",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "quickadd:choice:891ccad9-8573-45d4-9b68-e7f5305a075e",
+      "chords": [
+        "A-S-KeyD",
+        "KeyA"
+      ]
+    },
+    {
+      "command": "quickadd:choice:93ffdc8e-ae87-4898-8954-ffe521685405",
+      "chords": [
+        "A-S-KeyD",
+        "KeyH"
+      ]
+    },
+    {
+      "command": "quickadd:choice:022a3e3c-2575-4a33-a797-64d3cb5cc9ba",
+      "chords": [
+        "A-S-KeyD",
+        "KeyI"
+      ]
+    },
+    {
+      "command": "quickadd:choice:d0dc73d5-a3a2-4f2e-8559-25fe85bfd775",
+      "chords": [
+        "A-KeyD",
+        "S-KeyD"
       ]
     }
   ]
