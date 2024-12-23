@@ -1,3 +1,7 @@
 [submodule "5-REGISTRO"]
 	path = 5-REGISTRO
 	url = https://github.com/AtlcatlQ/DIARIO.git
+
+[submodule "7-Crisol-de-Escritura"]
+	path = 7-Crisol-de-Escritura
+	url = https://github.com/AtlcatlQ/Escritura.git
