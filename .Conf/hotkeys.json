@@ -567,15 +567,6 @@
       "key": "K"
     }
   ],
-  "obsidian-smarter-md-hotkeys:smarter-curly-brackets": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
   "obsidian-smarter-md-hotkeys:smarter-delete-current-file": [
     {
       "modifiers": [
@@ -716,6 +707,16 @@
         "Shift"
       ],
       "key": "N"
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-curly-brackets": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "'"
     }
   ]
 }
