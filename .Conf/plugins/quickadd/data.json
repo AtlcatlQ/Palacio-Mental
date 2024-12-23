@@ -239,7 +239,7 @@
           "command": true,
           "templatePath": "A-Utilidades/A.2-Plantillas/NUEVA NOTA.md",
           "fileNameFormat": {
-            "enabled": true,
+            "enabled": false,
             "format": ""
           },
           "folder": {
