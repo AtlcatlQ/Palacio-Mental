@@ -5,3 +5,6 @@
 [submodule "7-Crisol-de-Escritura"]
 	path = 7-Crisol-de-Escritura
 	url = https://github.com/AtlcatlQ/Escritura.git
+[submodule "1-PROYECTOS"]
+	path = 1-PROYECTOS
+	url = https://github.com/AtlcatlQ/PROYECTOS.git
