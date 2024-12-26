@@ -293,6 +293,13 @@
         "A-KeyD",
         "S-KeyD"
       ]
+    },
+    {
+      "command": "quickadd:choice:b6b00cb1-eb8a-42c2-ac50-450a0f9546ed",
+      "chords": [
+        "A-S-KeyD",
+        "KeyD"
+      ]
     }
   ]
 }
