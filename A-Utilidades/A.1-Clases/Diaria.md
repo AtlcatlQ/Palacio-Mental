@@ -7,7 +7,7 @@ created: 2024-11-24T01:57:04
 modified: 2024-11-24T01:57:06
 extends: Generic
 fields:
-  - name: Propósito
+  - name: Proposito
     type: Input
     options: {}
     path: ""
@@ -126,7 +126,7 @@ fields:
     options: {}
     path: ""
     id: A1Kcsp
-  - name: Canción
+  - name: Cancion
     type: Input
     options:
       template: "[{{Artista}} - <cite>{{Canción}}</cite>]({{url}})"
@@ -145,7 +145,7 @@ fields:
       step: 1
     path: ""
     id: psKgEq
-version: "2.123"
+version: "2.125"
 limit: 20
 mapWithTag: false
 icon: database
