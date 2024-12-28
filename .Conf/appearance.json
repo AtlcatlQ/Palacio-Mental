@@ -5,5 +5,7 @@
   "accentColor": "",
   "interfaceFontFamily": "Nunito",
   "textFontFamily": "Segoe UI",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": []
 }
