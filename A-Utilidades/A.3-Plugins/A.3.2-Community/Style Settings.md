@@ -5,7 +5,7 @@ status: '✔️'
 aliases: [Style]
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2024-12-28T01:07:53
+modified: 2024-12-30T03:34:03
 ---
 
 **description**:: Permite personalizar la interfaz de Obsidian a profundidad. Se integra bastante bien con muchos plugins.
@@ -17,3 +17,10 @@ modified: 2024-12-28T01:07:53
 ----
 
 [relacionado:: [[Minimal Settings|Minimal Theme Settings]]]
+
+# ⚙️ Configuración
+
+> [!attachment] [[style-settings.json|Configuración]] en formato .json
+
+- [[File Tree Alternative#💄 Style|File Tree Alternative]]
+- [[AnuPpuccin#💄 Configuración|AnuPpuccin]]
