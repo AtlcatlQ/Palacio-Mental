@@ -5,7 +5,7 @@ status: '✔️'
 aliases: []
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2024-12-30T02:59:44
+modified: 2024-12-30T23:05:27
 ---
 
 **description**:: Tema de Obsidian Altamente Personalizable
@@ -355,4 +355,10 @@ modified: 2024-12-30T02:59:44
 - Border Layout Radius: *16* **px**
 - Border Layout Padding: *20* **px**
 
-# AnuPpuccin Themes Extended
+# 💄 AnuPpuccin Themes Extended
+
+- Toggle extended light theme: `TRUE`
+- Toggle extended dark theme: `TRUE`
+- Toggle amoled black on all themes: `FALSE` *(Default)*
+- Light theme flavor: `Gruvbox`
+- Dark theme flavor: `Gruvbox`

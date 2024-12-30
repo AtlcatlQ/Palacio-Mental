@@ -46,8 +46,8 @@
   "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-sky",
   "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-sapphire",
   "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-blue",
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-gruvbox-dark",
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-gruvbox-light",
   "anuppuccin-theme-settings@@h2-size": 2.25,
@@ -98,5 +98,6 @@
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
   "file-tree-alternative-plugin@@oz-fta-folder-font-size": 12,
-  "file-tree-alternative-plugin@@oz-fta-file-font-size": 10
+  "file-tree-alternative-plugin@@oz-fta-file-font-size": 10,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false
 }

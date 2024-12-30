@@ -7,5 +7,7 @@
   "textFontFamily": "Segoe UI",
   "monospaceFontFamily": "JetBrains Mono",
   "cssTheme": "AnuPpuccin",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
 }
