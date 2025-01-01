@@ -1,14 +1,9 @@
 ---
 tags: [⚙️]
-aliases:
-  - Obsidian Callouts
-  - Callouts de Obsidian
+aliases: [Callouts de Obsidian, Obsidian Callouts]
 publish: true
 created: 2022-10-03T10:00:41
-modified: 2023-12-03T21:31:46
-sr-due: 2023-07-02
-sr-ease: 228
-sr-interval: 37
+modified: 2025-01-01T02:10:56
 ---
 
 ↖️ (fuente:: [[¬ 2023-10-24 Obsidian - Help|Documentación de Obsidian]] ([🔗](https://help.obsidian.md/Editing+and+formatting/Callouts)))
