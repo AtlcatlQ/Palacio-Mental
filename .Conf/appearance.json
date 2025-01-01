@@ -9,6 +9,8 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "extended-colorschemes",
-    "Headings"
+    "Headings",
+    "Justify",
+    "Align-Elements"
   ]
 }
