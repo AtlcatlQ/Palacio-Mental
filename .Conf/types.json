@@ -5,6 +5,7 @@
     "tags": "tags",
     "publish": "checkbox",
     "created": "datetime",
-    "modified": "datetime"
+    "modified": "datetime",
+    "semana": "number"
   }
 }
