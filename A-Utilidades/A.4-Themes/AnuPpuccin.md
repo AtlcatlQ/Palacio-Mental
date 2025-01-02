@@ -5,8 +5,16 @@ status: '✔️'
 aliases: []
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2025-01-02T01:02:19
+modified: 2025-01-02T03:00:06
 ---
+
+⬆️ (categorías:: )
+
+↔ (relacionado:: [[Style Settings]])
+
+---
+
+< (previas::) | (siguientes:: ) >
 
 [description:: Tema de Obsidian Altamente Personalizable]
 
@@ -15,8 +23,6 @@ modified: 2025-01-02T01:02:19
 [enlace:: [AnuPpuccin(Repositorio de GitHub)](https://github.com/AnubisNekhet/AnuPpuccin)]  
 
 ----
-
-[relacionado:: [[Style Settings]]]
 
 # 📃 Documentación
 

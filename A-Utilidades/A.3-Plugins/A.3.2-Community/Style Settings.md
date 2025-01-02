@@ -5,8 +5,16 @@ status: '✔️'
 aliases: [Style]
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2024-12-30T03:34:03
+modified: 2025-01-02T03:01:47
 ---
+
+⬆️ (categorías:: )
+
+↔ (relacionado:: [[Minimal Settings|Minimal Theme Settings]])
+
+---
+
+< (previas::) | (siguientes:: ) >
 
 **description**:: Permite personalizar la interfaz de Obsidian a profundidad. Se integra bastante bien con muchos plugins.
 
@@ -15,8 +23,6 @@ modified: 2024-12-30T03:34:03
 [enlace:: [Style Settings (Repositorio de GitHub)](https://github.com/mgmeyers/obsidian-style-settings)]  
 
 ----
-
-[relacionado:: [[Minimal Settings|Minimal Theme Settings]]]
 
 # ⚙️ Configuración
 
