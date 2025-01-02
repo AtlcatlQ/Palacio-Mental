@@ -26,9 +26,27 @@ modified: 2025-01-02T03:00:06
 
 # 📃 Documentación
 
+
 ## Íconos De Tareas Personalizados
 
 ![[Obsidian - Íconos personalizados para las Listas de Tareas#Añadidas Por AnuPpuccin|Seamless no-h1]]
+
+## Colores de Tema
+
+- Rosewater
+- Flamingo
+- Pink
+- Mauve
+- Red
+- Maroon
+- Peach
+- Yellow
+- Green
+- Teal
+- Sky
+- Sapphire
+- Blue
+- Lavender
 
 # 💄 Configuración
 
