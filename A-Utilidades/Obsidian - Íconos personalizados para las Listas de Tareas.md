@@ -26,7 +26,7 @@ modified: 2025-01-02T02:11:31
 
 a ==`b`== ==`c`== ==`d`== e f g h ==`i`== `j` k ==`l`== `m` `n` ñ `o` ==`p`== `q` `r` *`s`* *`t`* u `v` w **`x`** y z
 
-0 1 2 3 4 5 6 7 8 9
+==`0`== ==`1`== ==`2`== ==`3`== ==`4`== ==`5`== ==`6`== ==`7`== ==`8`== ==`9`==
 
 , `;` `.` \: ==`-`== `_` = ==`!`== ==`"`== `#` $ % *`&`* ==`/`== () ´ *`+`* ==`*`== { } \[\] | `°` ' ==`?`== `¿` `¡` ==`<`== ==`>`== *`@`* `¬` ^ *`~`*
 
@@ -67,6 +67,19 @@ a ==`b`== ==`c`== ==`d`== e f g h ==`i`== `j` k ==`l`== `m` `n` ñ `o` ==`p`== `
 
 - [l] `l`ugar
 - [S] Ahorros (`S`avings)
+
+## Speech Bubbles
+
+- [0] Speech Bubble 0
+- [1] Speech Bubble 1
+- [2] Speech Bubble 2
+- [3] Speech Bubble 3
+- [4] Speech Bubble 4
+- [5] Speech Bubble 5
+- [6] Speech Bubble 6
+- [7] Speech Bubble 7
+- [8] Speech Bubble 8
+- [9] Speech Bubble 9
 
 # Lista De Tareas De ITS
 
