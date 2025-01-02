@@ -42,7 +42,7 @@ if (notas.includes(prefix)) {
             type = "[[Herramientas Utilizadas|Aplicaciones Utilizadas]]"; 
             break;
         case "2. ÁREAS": 
-            type = "[[2-ÁREAS]]"; break;
+            type = "[[2-AREAS]]"; break;
         case "1. Hábitos": 
             type = "[[Hábitos activos|Hábito]]"; break;
         case "3. PROYECTOS": 

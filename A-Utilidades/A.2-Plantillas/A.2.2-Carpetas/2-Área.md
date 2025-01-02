@@ -3,7 +3,7 @@ tags: 🪐
 <%* if (tp.file.folder() == "0. Valores") { %>cssclass: big_quotes<%* } -%>
 ---
 
-%% [categorías:: [[2-ÁREAS]]<%* if (tp.file.folder() == "0. Valores") { %>, [[Principios Centrales]]<%* } %>] %%
+%% [categorías:: [[2-AREAS]]<%* if (tp.file.folder() == "0. Valores") { %>, [[Principios Centrales]]<%* } %>] %%
 # 📌 Tareas
 
 - [ ] 
