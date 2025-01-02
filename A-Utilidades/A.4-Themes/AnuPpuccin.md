@@ -18,6 +18,12 @@ modified: 2025-01-02T01:02:19
 
 [relacionado:: [[Style Settings]]]
 
+# 📃 Documentación
+
+## Íconos De Tareas Personalizados
+
+![[Obsidian - Íconos personalizados para las Listas de Tareas#Añadidas Por AnuPpuccin|Seamless no-h1]]
+
 # 💄 Configuración
 
 > [!important] Para poder personalizarlo, requiere que [[Style Settings]] esté activado.
