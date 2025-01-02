@@ -1,13 +1,10 @@
 ---
 tags: ["⚙️/🔌"]
-status: ❌
-aliases: ["Cambio Rápido", "Búsqueda de Archivos"]
+status: "❌"
+aliases: ["Búsqueda de Archivos", "Cambio Rápido"]
 publish: true
-sr-due: 2023-02-27
-sr-interval: 101
-sr-ease: 311
 created: 2023-05-01T12:47:03
-modified: 2023-05-07T22:50:16
+modified: 2025-01-02T03:02:19
 ---
 
 (siguientes:: [[Quick Switcher++]], [[Another Quick Switcher]]) >
@@ -18,7 +15,7 @@ modified: 2023-05-07T22:50:16
 
 [enlace:: [Quick Switcher (Ayuda de Obsidian)](https://help.obsidian.md/Plugins/Quick+switcher)]
 
-# Configuración:
+# Configuración
 
 - Show existing only: `FALSE` *(Default)*
 - Show attachments: `TRUE` *(Default)*
