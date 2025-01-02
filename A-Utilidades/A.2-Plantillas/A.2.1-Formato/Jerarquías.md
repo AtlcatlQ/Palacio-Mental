@@ -58,6 +58,8 @@ _%>
 
 ⬆️ (categorías:: <%* tR += type; %>)
 
+↔ (relacionado:: )
+
 ---
 
 < (previas::) | (siguientes:: ) >
