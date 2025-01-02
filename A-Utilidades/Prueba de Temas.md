@@ -5,7 +5,7 @@ aliases: [Ejemplos de formatos, Formato de Markdown, Temas]
 publish: true
 cssclasses: [metadata-button]
 created: 2023-04-19T15:53:48
-modified: 2024-12-28T15:16:11
+modified: 2025-01-02T02:43:40
 ---
 
 # Encabezado 1
@@ -42,6 +42,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Listaaaa
 
 ### Listas De Tareas
+
+> [!info] Es posible personalizarlas más, a través de temas como [[AnuPpuccin]] o utilizando Snippets como el de [[¬ 2023-10-24 ITS Theme - SlRvb's Documentation- Alternate Checkboxes|ITS Theme para Checkboxes personalizadas]]
 
 ![[Obsidian - Íconos personalizados para las Listas de Tareas#Por defecto de Obsidian|seamless no-h1]]
 
