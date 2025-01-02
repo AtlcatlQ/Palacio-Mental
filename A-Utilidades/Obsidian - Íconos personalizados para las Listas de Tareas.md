@@ -3,12 +3,12 @@ tags: [⚙️]
 aliases: [Checkbox Styles, Custom Checkboxes, Estilos de Listas de Tareas, Íconos para listas de tareas, Task Icons, Tasks Icons, To-do styles, todo icons]
 publish: true
 created: 2023-06-17T14:44:31
-modified: 2024-12-28T14:57:05
+modified: 2025-01-02T02:11:31
 ---
 
-↖️ (fuente:: [[¬ 2023-10-24 ITS Theme - SlRvb's Documentation- Alternate Checkboxes|¬ ITS Theme - SlRvb's Documentation- Alternate Checkboxes]], [[¬ 2023-10-24 Minimal Theme - Alternate Checkboxes|Minimal Theme - Alternate Checkboxes]])
+↖️ (fuente:: [[¬ 2023-10-24 ITS Theme - SlRvb's Documentation- Alternate Checkboxes|¬ ITS Theme - SlRvb's Documentation- Alternate Checkboxes]])
 
-⬆️ (categorías:: [[Minimal Settings|Minimal Theme Settings]], [[Configuración de Obsidian|Obsidian]])
+⬆️ (categorías:: [[Style Settings|Style]], [[Configuración de Obsidian|Obsidian]], [[AnuPpuccin]])
 
 ---
 
@@ -70,7 +70,8 @@ a ==`b`== ==`c`== ==`d`== e f g h ==`i`== `j` k ==`l`== `m` `n` ñ `o` ==`p`== `
 
 # Lista De Tareas De ITS
 
-> [!info] Soportadas a través de un [CSS Snippet](https://github.com/SlRvb/Obsidian--ITS-Theme/blob/main/Snippets/S%20-%20Checkboxes.css)
+> [!info] Soportadas a través de un [[¬ 2023-10-24 ITS Theme - SlRvb's Documentation- Alternate Checkboxes|CSS Snippet]]
+> Lo mostrado aquí es mi versión personalizada del Snippet
 
 ## Gestión De Tareas
 
