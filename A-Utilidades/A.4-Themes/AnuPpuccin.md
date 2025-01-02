@@ -5,12 +5,12 @@ status: '✔️'
 aliases: []
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2024-12-30T23:05:27
+modified: 2025-01-02T01:02:19
 ---
 
-**description**:: Tema de Obsidian Altamente Personalizable
+[description:: Tema de Obsidian Altamente Personalizable]
 
-**comentario**:: Está fuertemente inspirado en Minimal, aunque tiene muchas más opciones de personalización.
+[comentario:: Está fuertemente inspirado en Minimal, aunque tiene muchas más opciones de personalización.]
 
 [enlace:: [AnuPpuccin(Repositorio de GitHub)](https://github.com/AnubisNekhet/AnuPpuccin)]  
 
