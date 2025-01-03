@@ -1,0 +1,9 @@
+.data-link-icon[data-link-tags]::before{content: attr(data-link-tags)" ";}
+        
+.data-link-icon[data-link-status]::before{content: attr(data-link-status)" ";}
+
+.data-link-icon[data-link-icon]::before{content: attr(data-link-icon)" ";}
+
+.data-link-icon[data-link-type=]::before{}
+
+/* a.internal-link[data-link-type]{content: attr(data-link-type)" "attr(data-link-status)" "} */

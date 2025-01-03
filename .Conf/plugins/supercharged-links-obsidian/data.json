@@ -1,9 +1,9 @@
 {
   "targetAttributes": [
     "icon",
+    "status",
     "tags",
-    "type",
-    "status"
+    "type"
   ],
   "targetTags": false,
   "getFromInlineField": true,
