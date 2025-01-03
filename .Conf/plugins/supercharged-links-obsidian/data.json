@@ -1,0 +1,18 @@
+{
+  "targetAttributes": [
+    "icon",
+    "tags",
+    "type",
+    "status"
+  ],
+  "targetTags": false,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": []
+}
