@@ -15,7 +15,7 @@ if (capturas.includes(prefix)) {
         case "¡": type = "[[PENSAMIENTOS]]"; break;
         case "!": type = "[[IDEAS]]"; break;
         case "¡": type = "[[PENSAMIENTOS]]"; break;
-        case "&": type = "[[4. ARTE]]"; break;
+        case "&": type = "[[ARTE]]"; break;
         case "+": type = "[[LIBRO]]"; break;
         case "¬": type = "[[EXTRACTO]]"; break;
         case "=": type = "[[PAPER]]"; break;
