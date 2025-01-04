@@ -54,8 +54,8 @@ a ==`b`== ==`c`== ==`d`== e f g h ==`i`== `j` k ==`l`== `m` `n` ñ `o` ==`p`== `
 
 - ["] Cita (`"`)
 - [?] Pregunta (`?`)
-- [i] `I`nformación
-- [I] Idea  
+- [i] `i`nformación
+- [I] `I`dea  
 
 ## Resaltar
 
@@ -120,7 +120,7 @@ a ==`b`== ==`c`== ==`d`== e f g h ==`i`== `j` k ==`l`== `m` `n` ñ `o` ==`p`== `
 
 - [B] Marcador de Página (`B`ookmark)
 - [F] `F`avorito (Favorite, Health)
-- [W] Recompensa (re`W`ard)
+- [W] Recompensa (re`W`ard, `W`in)
 
 ## Ficción
 
