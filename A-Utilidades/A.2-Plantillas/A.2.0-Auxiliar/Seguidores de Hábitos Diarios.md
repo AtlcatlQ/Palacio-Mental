@@ -16,9 +16,9 @@ FROM [[]] WHERE type = "Diaria" SORT file.name DESC
 ### 🏁 Propósito VS Resumen
 
 ```dataview
-TABLE Propósito AS "🏁", Resaltado AS "🛟"
+TABLE Proposito AS "🏁", Resaltado AS "🛟"
 FROM [[]]
-WHERE type = "Diaria" AND (Propósito or Resumen)
+WHERE type = "Diaria" AND (Proposito or Resumen)
 SORT file.name ASC
 ```
 
