@@ -5,7 +5,7 @@ status: '✔️'
 aliases: []
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2025-01-02T03:00:06
+modified: 2025-01-04T12:29:43
 ---
 
 ⬆️ (categorías:: )
@@ -26,12 +26,11 @@ modified: 2025-01-02T03:00:06
 
 # 📃 Documentación
 
-
 ## Íconos De Tareas Personalizados
 
-![[Obsidian - Íconos personalizados para las Listas de Tareas#Añadidas Por AnuPpuccin|Seamless no-h1]]
+![[Obsidian - Íconos personalizados para las Listas de Tareas#Añadidas Por AnuPpuccin|seamless no-h]]
 
-## Colores de Tema
+## Colores De Tema
 
 - Rosewater
 - Flamingo
