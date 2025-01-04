@@ -4,7 +4,7 @@
 
 <%* } else if (tp.file.folder(true).includes("1-PROYECTOS")) { %><% tp.file.include("[[1-Proyecto]]") %>
 
-<%* } else if (tp.file.folder() == "2-ÁREAS" || tp.file.folder() == "2.0-Valores") { %><% tp.file.include("[[2-Área]]") %>
+<%* } else if (tp.file.folder() == "2-AREAS" || tp.file.folder() == "2.0-Valores") { %><% tp.file.include("[[2-Área]]") %>
 
 <%* } else if (tp.file.folder(true).includes("2.1-Hábitos")) { %><% tp.file.include("[[2.1-Hábito]]") %>
 

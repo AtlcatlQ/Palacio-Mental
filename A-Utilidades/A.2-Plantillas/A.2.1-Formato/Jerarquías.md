@@ -44,7 +44,7 @@ if (notas.includes(prefix)) {
         case "2. ÁREAS": 
             type = "[[2-AREAS]]"; break;
         case "1. Hábitos": 
-            type = "[[Hábitos activos|Hábito]]"; break;
+            type = "[[Hábitos Activos|Hábito]]"; break;
         case "3. PROYECTOS": 
             type = "[[PROYECTOS|Proyecto]]"; break;
         case "4. Mapas de Contenido": 

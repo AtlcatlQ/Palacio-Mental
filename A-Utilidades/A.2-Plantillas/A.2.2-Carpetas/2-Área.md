@@ -25,7 +25,7 @@ WHERE contains(categorías, [[]])
 # 🪐 Sub-Áreas
 
 ```dataview
-LIST description FROM "2-ÁREAS"
+LIST description FROM "2-AREAS"
 WHERE contains(categorías, [[]])
 ```
 
