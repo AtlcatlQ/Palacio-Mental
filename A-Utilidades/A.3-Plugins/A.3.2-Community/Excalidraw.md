@@ -2,7 +2,7 @@
 icon: '🖌️'
 tags: [⚙️/🔌, 🔔]
 status: '✔️'
-aliases: [Excalidraw]
+aliases: [Excalidraw, Excalidraw (Obsidian Plugin)]
 publish: true
 created: 2023-05-01T21:29:22
 modified: 2025-01-09T02:01:44
