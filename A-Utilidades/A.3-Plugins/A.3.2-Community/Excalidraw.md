@@ -5,7 +5,7 @@ status: '✔️'
 aliases: [Excalidraw, Excalidraw (Obsidian Plugin)]
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2025-01-09T02:01:44
+modified: 2025-01-11T17:36:08
 ---
 
 [description:: Permite implementar el editor de dibujos de [Excalidraw](https://excalidraw.com/) embebido dentro de Obsidian.]
@@ -32,7 +32,7 @@ modified: 2025-01-09T02:01:44
 ## Saving
 
 - Compress Excalidraw JSON in Markdown: `TRUE` *(Default)*
-- Decompress Excalidraw JSON in Markdown View: `FAlse` *(Default)*
+- Decompress Excalidraw JSON in Markdown View: `FALSE` *(Default)*
 - Interval for autosave on Desktop: `Frequent` *(Default)*
 - Interval for autosave on Mobile: `Frequent` *(Default)*
 
@@ -59,8 +59,8 @@ modified: 2025-01-09T02:01:44
 
 ## Excalidraw Appearance and Behavior
 
-- Render as image when in markdown reading mode of an Excalidraw file: `FALSE` *(Default)*
-- Render Excalidraw file as an image in hover preview: `FALSE` *(Default)*
+- Render as image when in markdown reading mode of an Excalidraw file: `TRUE` *(Default)*
+- Render Excalidraw file as an image in hover preview: `TRUE` *(Default)*
 - Left-handed mode: `FALSE` *(Default)*
 - Show splash screen in new drawings: `FALSE`
 
