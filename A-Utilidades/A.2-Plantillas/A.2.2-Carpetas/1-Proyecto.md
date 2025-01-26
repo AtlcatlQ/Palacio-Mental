@@ -6,7 +6,7 @@ límite: <% tp.system.prompt("Finaliza:", "", false) %>
 
 %%
 
-(categorías:: [[PROYECTOS]]<%* if (tp.file.folder() == "0. Objetivos") { _%>, [[Objetivos]]<%* } else if (tp.file.folder() == "1. Asignaturas") { %>, [[3.1. UNIVERSIDAD]]<%* } else if (tp.file.folder() == "2. Escritos") { %>, [[Escritos]]<%* } %>
+(categorías:: )
 
 (meta:: <% tp.system.prompt("¿Qué quiero conseguir con este proyecto?", "Meta", false) %>)
 
