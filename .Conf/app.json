@@ -12,5 +12,12 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "B-Adjuntos",
   "uriCallbacks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }
