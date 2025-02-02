@@ -116,6 +116,7 @@
   "showReleaseNotes": false,
   "showNewVersionNotification": false,
   "latexBoilerplate": "\\textcolor{}{}",
+  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [],
@@ -766,5 +767,14 @@
   "isDebugMode": false,
   "rank": "Bronze",
   "modifierKeyOverrides": [],
-  "showSplashscreen": false
+  "showSplashscreen": false,
+  "pdfSettings": {
+    "pageSize": "A4",
+    "pageOrientation": "portrait",
+    "fitToPage": 1,
+    "paperColor": "white",
+    "customPaperColor": "#ffffff",
+    "alignment": "center",
+    "margin": "normal"
+  }
 }
