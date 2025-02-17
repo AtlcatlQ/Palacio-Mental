@@ -1,14 +1,10 @@
 ---
 tags: [⚙️/🔌]
 status: '✔️'
-aliases:
-  - Árbol de Archivos Alternativo
-  - File Tree Alternative
-  - Visor alternativo de archivos
-  - Vista de archivos alternativa
+aliases: [Árbol de Archivos Alternativo, File Tree Alternative, Visor alternativo de archivos, Vista de archivos alternativa]
 publish: true
 created: 2023-05-01T21:29:22
-modified: 2024-05-12T18:16:32
+modified: 2024-12-30T03:13:34
 ---
 
 < (previas:: [[Files]]) | (siguientes::) >
@@ -57,3 +53,27 @@ modified: 2024-05-12T18:16:32
 
 - Excluded File Extensions: "ini"
 - Excluded Folder Paths: ""
+
+# 💄 Style
+
+> [!link] [[Style Settings]]
+
+## Folder Pane Styles
+
+- Folders Name Font Size: *12*
+- Collapse/Expand Icon Color: *(Default)*
+- Indentation Guide Color: *(Default)*
+- Folder Name Color: *(Default)*
+
+## File Pane Styles
+
+- File Name Font Size: *10*
+- File Name Color: *(Default)*
+- Header Folder Name Color: *(Default)*
+
+## All Panes
+
+- Header Background Color: *(Default)*
+- Header Action Icons Color: *(Default)*
+- Active File/Folder Name Color: *(Default)*
+- Active File Background Color: *(Default)*

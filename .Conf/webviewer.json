@@ -1,0 +1,7 @@
+{
+  "openExternalURLs": true,
+  "enableAdblocking": true,
+  "homepage": "https://www.ecosia.org",
+  "customSearchEngine": "https://ecosia.org/?q=%s",
+  "searchEngine": "custom"
+}

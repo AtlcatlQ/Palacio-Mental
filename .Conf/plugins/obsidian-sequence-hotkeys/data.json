@@ -125,6 +125,181 @@
         "A-Backquote",
         "KeyM"
       ]
+    },
+    {
+      "command": "periodic-notes:open-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyY"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyY"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyY"
+      ]
+    },
+    {
+      "command": "workspace:close-others-tab-group",
+      "chords": [
+        "C-A-S-KeyW",
+        "KeyW"
+      ]
+    },
+    {
+      "command": "workspace:close-tab-group",
+      "chords": [
+        "C-A-S-KeyW",
+        "S-KeyW"
+      ]
+    },
+    {
+      "command": "workspace:open-in-new-window",
+      "chords": [
+        "C-A-S-KeyW",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "workspace:toggle-stacked-tabs",
+      "chords": [
+        "C-A-S-KeyW",
+        "KeyS"
+      ]
+    },
+    {
+      "command": "quickadd:choice:c78d54a3-3c28-4436-aaf9-9d64d3eaa19d",
+      "chords": [
+        "A-KeyD",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "quickadd:choice:891ccad9-8573-45d4-9b68-e7f5305a075e",
+      "chords": [
+        "A-S-KeyD",
+        "KeyA"
+      ]
+    },
+    {
+      "command": "quickadd:choice:93ffdc8e-ae87-4898-8954-ffe521685405",
+      "chords": [
+        "A-S-KeyD",
+        "KeyH"
+      ]
+    },
+    {
+      "command": "quickadd:choice:022a3e3c-2575-4a33-a797-64d3cb5cc9ba",
+      "chords": [
+        "A-S-KeyD",
+        "KeyI"
+      ]
+    },
+    {
+      "command": "quickadd:choice:d0dc73d5-a3a2-4f2e-8559-25fe85bfd775",
+      "chords": [
+        "A-KeyD",
+        "S-KeyD"
+      ]
+    },
+    {
+      "command": "quickadd:choice:b6b00cb1-eb8a-42c2-ac50-450a0f9546ed",
+      "chords": [
+        "A-S-KeyD",
+        "KeyD"
+      ]
     }
   ]
 }

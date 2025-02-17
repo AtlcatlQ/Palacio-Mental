@@ -43,9 +43,6 @@ modified: 2024-11-23T12:01:16
 ## Template Hotkeys
 
 - [[Firma]]: Para las Atribuciones de las citas (en `Blockquotes`)
-- [[Bitácora-Idiomas]]: Entradas Rápidas para los [[3.3. Duolingo|Idiomas]] que estoy Aprendiendo
-- [[Bitácora-Hábitos]]: Entrada Rápida para los [[2.A. Acerca del Seguimiento de Hábitos|Hábitos]]
-- [[Bitácora-Alimentación]]: Entrada Rápida para [[2.1. Alimentación|Alimentación]]
 
 ## Startup Templates
 

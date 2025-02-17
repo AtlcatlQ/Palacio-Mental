@@ -567,15 +567,6 @@
       "key": "K"
     }
   ],
-  "obsidian-smarter-md-hotkeys:smarter-curly-brackets": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "'"
-    }
-  ],
   "obsidian-smarter-md-hotkeys:smarter-delete-current-file": [
     {
       "modifiers": [
@@ -691,5 +682,60 @@
       ],
       "key": "\\"
     }
-  ]
+  ],
+  "quickadd:choice:d973ff28-ce2c-4972-91a6-af6517165341": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:1ee57a28-0b79-4fad-baeb-f99d1d7bf245": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:ce53c9ff-97f7-4f18-aa92-c16c8250fd4b": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-curly-brackets": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "'"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open-editors": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-outliner:system-info": [],
+  "obsidian-outliner:unfold": []
 }

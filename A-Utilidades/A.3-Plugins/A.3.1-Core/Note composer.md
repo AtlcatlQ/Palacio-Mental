@@ -1,13 +1,10 @@
 ---
 tags: [⚙️/🔌]
-status: 🔳
-aliases: ["Compositor de Notas", "Componer Notas", "Note Composer"]
+status: "🔳"
+aliases: ["Componer Notas", "Compositor de Notas", "Note Composer"]
 publish: true
-sr-due: 2023-08-30
-sr-interval: 199
-sr-ease: 290
 created: 2023-05-01T12:47:03
-modified: 2023-10-02T12:00:11
+modified: 2025-01-05T03:01:41
 ---
 
 ↖️ (fuente:: [[¬ 2023-10-24 Obsidian - Help]])
@@ -18,9 +15,9 @@ modified: 2023-10-02T12:00:11
 
 (siguientes:: [[Note Refactor]]) >
 
-**description**:: Permite extraer fragmentos de notas o combinar notas, puede ser utilizado en conjunto con plantillas.
+[description:: Permite extraer fragmentos de notas o combinar notas, puede ser utilizado en conjunto con plantillas.]
 
-**comentario**:: No lo utilizo, todavía
+[comentario:: No lo utilizo, todavía]
 
 [enlace:: [Note Composer (Ayuda de Obsidian)](https://help.obsidian.md/Plugins/Note+composer)]
 
@@ -29,8 +26,8 @@ modified: 2023-10-02T12:00:11
 Ambas funciones, tanto [[#Combinar Notas]] como [[#Extraer Notas]] pueden tener distintos comportamientos dependiendo de qué teclas se:
 
 1. <kbd>↵</kbd>: Añade el contenido de la nota inicial *al final* de la nota de destino.
-2. <kbd>⇧</kbd>+<kbd>↵</kbd>: Añade el contenido de la nota inicial *al principio* de la nota de destino
-3. <kbd>Ctrl</kbd>+<kbd>↵</kbd>: *Crea una nueva nota* con el contenido de la nota de fuente
+1. <kbd>⇧</kbd>+<kbd>↵</kbd>: Añade el contenido de la nota inicial *al principio* de la nota de destino
+1. <kbd>Ctrl</kbd>+<kbd>↵</kbd>: *Crea una nueva nota* con el contenido de la nota de fuente
 
 ## Combinar Notas
 

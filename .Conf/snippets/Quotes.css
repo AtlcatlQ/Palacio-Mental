@@ -1,0 +1,40 @@
+@font-face {
+	font-family: 'LinuxLibertineR'; 
+	src: url('Fuentes/LinuxLibertineR.ttf');
+}
+
+blockquote > p, .HyperMD-quote, .cm-quote {
+	text-align: left;
+	width: 75%;
+	min-width: 200px;
+	margin: 1rem auto;
+}
+
+blockquote > p {text-indent: -0.75em !important;}
+
+blockquote > p, .HyperMD-quote, .cm-quote, cite, span.author {font-family: 'LinuxLibertineR';}
+
+.signature {
+	align-self: flex-end; 
+	font-size: smaller; 
+	font-style: normal; 
+	text-align: right; 
+	padding-right: 0.75em;
+}
+
+span.author::before {content: "— ";}
+
+cite::before{content: "«";}
+
+cite::after{content: "»";}
+
+span.author + cite::before{content: ", «";}
+
+.big_quotes blockquote > p {
+	text-align: center;
+	align-self: center;
+	font-size: 2em;
+}
+
+blockquote {border: 0em !important; padding: 0em !important;} 
+

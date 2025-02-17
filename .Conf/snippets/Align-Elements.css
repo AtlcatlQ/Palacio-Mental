@@ -1,0 +1,37 @@
+table, .cm-table-widget, iframe, .cm-preview-codeblock {margin: 1rem auto !important;}
+
+iframe {
+  display: block; 
+  max-width: 800px !important; 
+  max-height: calc(max-width*9/16) !important;
+}
+
+.block-language-tracker {margin: 0 auto; width: fit-content;}
+
+.block-language-tracker div {margin: 0 auto;}
+
+.canvas-node-content p {text-indent: 0; text-align: center;}
+
+.canvas-node-content .markdown-preview-section{
+  max-height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;}
+
+.block-language-tracker, .cm-preview-codeblock {
+    max-width: 75%;
+    align-items: center;
+    align-content: center;
+}
+
+img {margin: 0.5rem auto; display: block;}
+
+.mermaid svg { 
+  max-width: 100%; 
+  height: auto;
+}
+
+.mermaid{
+    text-align: center;
+}

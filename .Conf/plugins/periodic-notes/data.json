@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY-MM-DD",
+    "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md",
+    "folder": "5-REGISTRO/5.1-DIARIO",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "YYYY-[W]WW",
+    "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.2-Nota Semanal.md",
+    "folder": "5-REGISTRO/5.2-Semanal",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.3-Nota Mensual.md",
+    "folder": "5-REGISTRO/5.3-Mensual",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY-[Q]Q",
+    "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.4-Nota Trimestral.md",
+    "folder": "5-REGISTRO/5.4-Trimestral",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "YYYY",
+    "template": "A-Utilidades/A.2-Plantillas/A.2.2-Carpetas/A.2.2.5-Temporales/5.5-Nota Anual.md",
+    "folder": "5-REGISTRO/5.5-Anual",
+    "enabled": true
+  }
+}

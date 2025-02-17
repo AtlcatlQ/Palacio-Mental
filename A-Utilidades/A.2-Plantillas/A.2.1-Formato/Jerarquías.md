@@ -15,7 +15,7 @@ if (capturas.includes(prefix)) {
         case "¡": type = "[[PENSAMIENTOS]]"; break;
         case "!": type = "[[IDEAS]]"; break;
         case "¡": type = "[[PENSAMIENTOS]]"; break;
-        case "&": type = "[[4. ARTE]]"; break;
+        case "&": type = "[[ARTE]]"; break;
         case "+": type = "[[LIBRO]]"; break;
         case "¬": type = "[[EXTRACTO]]"; break;
         case "=": type = "[[PAPER]]"; break;
@@ -42,9 +42,9 @@ if (notas.includes(prefix)) {
             type = "[[Herramientas Utilizadas|Aplicaciones Utilizadas]]"; 
             break;
         case "2. ÁREAS": 
-            type = "[[2-ÁREAS]]"; break;
+            type = "[[2-AREAS]]"; break;
         case "1. Hábitos": 
-            type = "[[Hábitos activos|Hábito]]"; break;
+            type = "[[Hábitos Activos|Hábito]]"; break;
         case "3. PROYECTOS": 
             type = "[[PROYECTOS|Proyecto]]"; break;
         case "4. Mapas de Contenido": 
@@ -57,6 +57,8 @@ if (notas.includes(prefix)) {
 _%>
 
 ⬆️ (categorías:: <%* tR += type; %>)
+
+↔ (relacionado:: )
 
 ---
 

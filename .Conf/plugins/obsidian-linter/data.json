@@ -278,8 +278,8 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "",
-    ""
+    "A-Utilidades/A.1-Clases",
+    "A-Utilidades/A.2-Plantillas"
   ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
