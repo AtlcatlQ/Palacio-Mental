@@ -1,11 +1,10 @@
 ---
 tags: [📓]
 status: '🌲'
-aliases:
-  - Demostración de las Leyes de Equivalencia
+aliases: [Demostración de las Leyes de Equivalencia]
 publish: true
 created: 2023-06-21T05:42:03
-modified: 2023-12-08T14:17:36
+modified: 2025-02-17T17:43:24
 ---
 
 [categorías:: [[Lógica Proposicional - Leyes de Implicación|Leyes de Implicación]]]
@@ -14,12 +13,13 @@ modified: 2023-12-08T14:17:36
 
 ---
 
-
 # 2. Identidad
 
 ## 2.A. Conjunción
 
-> $$\boxed{p \land (V) \equiv p}$$
+> $$
+> \boxed{p \land (V) \equiv p}
+> $$
 
 | $p$ | $p \land (V)$ | $p \land (V) \iff p$ |
 |:---:|:-------------:|:--------------------:|
@@ -28,7 +28,9 @@ modified: 2023-12-08T14:17:36
 
 ## 2.B. Disyunción
 
-> $$\boxed{p \lor (F) \equiv p}$$
+> $$
+> \boxed{p \lor (F) \equiv p}
+> $$
 
 | $p$ | $p \lor (F)$ | $p \lor (F) \iff p$ |
 |:---:|:------------:|:-------------------:|
@@ -41,7 +43,9 @@ modified: 2023-12-08T14:17:36
 
 ## 4.A. Conjunción
 
-> $$\boxed{p \land q \equiv q \land p}$$
+> $$
+> \boxed{p \land q \equiv q \land p}
+> $$
 
 | $p$ | $q$ | $p \land q$ | $q \land p$ | $p \land q \iff q \land p$ |
 |:---:|:---:|:-----------:|:-----------:|:--------------------------:|
@@ -52,7 +56,9 @@ modified: 2023-12-08T14:17:36
 
 ## 4.B. Disyunción
 
-> $$\boxed{p \lor q \equiv q \lor p}$$
+> $$
+> \boxed{p \lor q \equiv q \lor p}
+> $$
 
 | $p$ | $q$ | $p \lor q$ | $q \lor p$ | $p \lor q \iff q \lor p$ |
 |:---:|:---:|:----------:|:----------:|:------------------------:|
@@ -65,7 +71,9 @@ modified: 2023-12-08T14:17:36
 
 ## 5.A. Conjunción
 
-$$\boxed{\underbrace{p \land q \land r}_{s_{1}} \equiv \underbrace{(p \land q) \land r}_{s_{2}} \equiv \underbrace{p \land (q \land r)}_{s_{3}}}$$
+$$
+\boxed{\underbrace{p \land q \land r}_{s_{1}} \equiv \underbrace{(p \land q) \land r}_{s_{2}} \equiv \underbrace{p \land (q \land r)}_{s_{3}}}
+$$
 
 | $p$ | $q$ | $r$ | $p \land q$ | $q \land r$ | $s_{1}$ | $s_{2}$ | $s_{3}$ | $s_{1} \equiv s_{2} \equiv s_{3}$ |
 |:---:|:---:|:---:|:-----------:|:-----------:|:-------:|:-------:|:-------:|:---------------------------------:|
@@ -80,7 +88,9 @@ $$\boxed{\underbrace{p \land q \land r}_{s_{1}} \equiv \underbrace{(p \land q) \
 
 ## 5.B. Disyunción
 
-$$\boxed{\underbrace{p \lor q \lor r}_{s_{1}} \equiv \underbrace{(p \lor q) \lor r}_{s_{2}} \equiv \underbrace{p \lor (q \lor r)}_{s_{3}}}$$
+$$
+\boxed{\underbrace{p \lor q \lor r}_{s_{1}} \equiv \underbrace{(p \lor q) \lor r}_{s_{2}} \equiv \underbrace{p \lor (q \lor r)}_{s_{3}}}
+$$
 
 | $p$ | $q$ | $r$ | $p \lor q$ | $q \lor r$ | $s_{1}$ | $s_{2}$ | $s_{3}$ | $s_{1} \equiv s_{2} \equiv s_{3}$ |
 |:---:|:---:|:---:|:----------:|:----------:|:-------:|:-------:|:-------:|:---------------------------------:|
@@ -97,7 +107,9 @@ $$\boxed{\underbrace{p \lor q \lor r}_{s_{1}} \equiv \underbrace{(p \lor q) \lor
 
 ## 6.A. Conjunción Sobre la Disyunción
 
-$$\boxed{\underbrace{p \land (q \lor r)}_{s_{1}} \equiv \underbrace{(p \land q) \lor (p \land r)}_{s_2}}$$
+$$
+\boxed{\underbrace{p \land (q \lor r)}_{s_{1}} \equiv \underbrace{(p \land q) \lor (p \land r)}_{s_2}}
+$$
 
 | $p$ | $q$ | $r$ | $q \lor r$ | $p \land q$ | $p \land r$ | $s_{1}$ | $s_{2}$ | $s_{1} \equiv s_{2}$ |
 |:---:|:---:|:---:|:----------:|:-----------:|:-----------:|:-------:|:-------:|:--------------------:|
@@ -112,7 +124,9 @@ $$\boxed{\underbrace{p \land (q \lor r)}_{s_{1}} \equiv \underbrace{(p \land q) 
 
 ## 6.B. Disyunción Sobre la Conjunción
 
-$$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \land (p \lor r)}_{s_{2}}}$$
+$$
+\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \land (p \lor r)}_{s_{2}}}
+$$
 
 | $p$ | $q$ | $r$ | $q \land r$ | $p \lor q$ | $p \lor r$ | $s_{1}$ | $s_{2}$ | $s_{1} \equiv s_{2}$ |
 |:---:|:---:|:---:|:-----------:|:----------:|:----------:|:-------:|:-------:|:--------------------:|
@@ -129,7 +143,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 7.A. Contradicción
 
-> $$\boxed{p \land \lnot p \equiv (F)}$$
+> $$
+> \boxed{p \land \lnot p \equiv (F)}
+> $$
 
 | $p$ | $\lnot p$ | $p \land \lnot p$ | $p \land \lnot p \equiv (F)$ |
 |:---:|:---------:|:-----------------:|:----------------------------:|
@@ -138,7 +154,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 7.B. Tercero Excluido
 
-> $$\boxed{p \lor \lnot p \equiv (V)}$$
+> $$
+> \boxed{p \lor \lnot p \equiv (V)}
+> $$
 
 | $p$ | $\lnot p$ | $p \lor \lnot p$ | $p \lor \lnot p \equiv (V)$ |
 |:---:|:---------:|:----------------:|:---------------------------:|
@@ -149,7 +167,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 8.A. Doble Negación
 
-> $$\boxed{\lnot (\lnot p) \equiv p}$$
+> $$
+> \boxed{\lnot (\lnot p) \equiv p}
+> $$
 
 | $p$ | $\lnot p$ | $\lnot (\lnot p)$ | $\lnot (\lnot p) \equiv p$ |
 |:---:|:---------:|:-----------------:|:--------------------------:|
@@ -158,7 +178,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 8.B. Triple Negación
 
-> $$\boxed{\lnot (\lnot (\lnot p)) \equiv \lnot p}$$
+> $$
+> \boxed{\lnot (\lnot (\lnot p)) \equiv \lnot p}
+> $$
 
 | $p$ | $\lnot p$ | $\lnot (\lnot p)$ | $\lnot (\lnot (\lnot p))$ | $\lnot (\lnot (\lnot p)) \equiv \lnot p$ |
 |:---:|:---------:|:-----------------:|:-------------------------:|:----------------------------------------:|
@@ -169,7 +191,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 9.A
 
-> $$\boxed{\underbrace{\lnot (p \land q)}_{s_{1}} \equiv \underbrace{\lnot p \lor \lnot q}_{s_{2}}}$$
+> $$
+> \boxed{\underbrace{\lnot (p \land q)}_{s_{1}} \equiv \underbrace{\lnot p \lor \lnot q}_{s_{2}}}
+> $$
 
 | $p$ | $q$ | $\lnot p$ | $\lnot q$ | $p \land q$ | $s_{1}$ | $s_{2}$ | $s_{1} \equiv s_{2}$ |
 |:---:|:---:|:---------:|:---------:|:-----------:|:-------:|:-------:|:--------------------:|
@@ -180,7 +204,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 9.B
 
-> $$\boxed{\underbrace{\lnot (p \lor q)}_{s_{1}} \equiv \underbrace{\lnot p \land \lnot q}_{s_{2}}}$$
+> $$
+> \boxed{\underbrace{\lnot (p \lor q)}_{s_{1}} \equiv \underbrace{\lnot p \land \lnot q}_{s_{2}}}
+> $$
 
 | $p$ | $q$ | $\lnot p$ | $\lnot q$ | $p \lor q$ | $s_{1}$ | $s_{2}$ | $s_{1} \equiv s_{2}$ |
 |:---:|:---:|:---------:|:---------:|:----------:|:-------:|:-------:|:--------------------:|
@@ -193,7 +219,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 10.A
 
-> $$\boxed{p \land (p \lor q) \equiv p}$$
+> $$
+> \boxed{p \land (p \lor q) \equiv p}
+> $$
 
 | $p$ | $q$ | $p \lor q$ | $p \land (p \lor q)$ | $p \land (p \lor q) \equiv p$ |
 |:---:|:---:|:----------:|:--------------------:|:-----------------------------:|
@@ -204,7 +232,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 10.B
 
-> $$\boxed{p \lor (p \land q) \equiv p}$$
+> $$
+> \boxed{p \lor (p \land q) \equiv p}
+> $$
 
 | $p$ | $q$ | $p \land q$ | $p \lor (p \lor q)$ | $p \land (p \lor q) \equiv p$ |
 |:---:|:---:|:-----------:|:-------------------:|:-----------------------------:|
@@ -217,7 +247,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 11.A
 
-> $$\boxed{\underbrace{p \land (\lnot p \lor q)}_{s_{1}} \equiv \underbrace{p \land q}_{s_{2}}}$$
+> $$
+> \boxed{\underbrace{p \land (\lnot p \lor q)}_{s_{1}} \equiv \underbrace{p \land q}_{s_{2}}}
+> $$
 
 | $p$ | $q$ | $\lnot p$ | $\lnot p \lor q$ | $s_{2}$ | $s_{1}$ | $s_{1} \equiv s_{2}$ |
 |:---:|:---:|:---------:|:----------------:|:-------:|:-------:|:--------------------:|
@@ -228,7 +260,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 ## 11.B
 
-> $$\boxed{\underbrace{p \lor (\lnot p \land q)}_{s_{1}} \equiv \underbrace{p \lor q}_{s_{2}}}$$
+> $$
+> \boxed{\underbrace{p \lor (\lnot p \land q)}_{s_{1}} \equiv \underbrace{p \lor q}_{s_{2}}}
+> $$
 
 | $p$ | $q$ | $\lnot p$ | $\lnot p \land q$ | $s_{1}$ | $s_{2}$ | $s_{1} \equiv s_{2}$ |
 |:---:|:---:|:---------:|:-----------------:|:-------:|:-------:|:--------------------:|
@@ -239,7 +273,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 # 12. Alternativa De Condicional
 
-> $$\boxed{p \implies q \equiv \lnot p \lor q}$$
+> $$
+> \boxed{p \implies q \equiv \lnot p \lor q}
+> $$
 
 | $p$ | $q$ | $\lnot p$ | $p \implies q$ | $\lnot p \lor q$ | $p \implies q \equiv \lnot p \lor q$ |
 |:---:|:---:|:---------:|:--------------:|:----------------:|:------------------------------------:|
@@ -250,7 +286,9 @@ $$\boxed{\underbrace{p \lor (q \land r)}_{s_{1}} \equiv \underbrace{(p \lor q) \
 
 # 13. Contra Recíproco
 
-> $$\boxed{\underbrace{p \implies q}_{s_{1}} \equiv \underbrace{\lnot q \implies \lnot p}_{s_{2}}}$$
+> $$
+> \boxed{\underbrace{p \implies q}_{s_{1}} \equiv \underbrace{\lnot q \implies \lnot p}_{s_{2}}}
+> $$
 
 | $p$ | $q$ | $\lnot p$ | $\lnot q$ | $s_{1}$ | $s_{2}$ | $s_{1} \equiv s_{2}$ |
 |:---:|:---:|:---------:|:---------:|:-------:|:-------:|:--------------------:|

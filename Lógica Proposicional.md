@@ -28,7 +28,7 @@ modified: 2023-12-29T16:23:20
 >
 > > (Proposición:: Oración declarativa que es verdadera o falsa pero no ambas al mismo tiempo) ([[§ 2023-06-07 Especialización Docente - Matemática - Módulo VII - U4. Cálculo Proposicional#^proposicion|🔗]])
 >
-> - La frase: <cite>Esta frase es falsa</cite> no puede ser una proposición porque no es posible determinar si es verdadera o es falsa, por ejemplo. ([[% 2023-12-27 MateFacil - Proposiciones Lógicas|↖️]])
+> - La frase: <cite>Esta frase es falsa</cite> no puede ser una proposición porque no es posible determinar si es verdadera o es falsa, por ejemplo. ([[0-ENTRADA/% 2023-12-27 MateFacil - Proposiciones Lógicas|↖️]])
 
 ^Proposicion
 

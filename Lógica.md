@@ -4,7 +4,7 @@ status: '🪴'
 aliases: [Lógica, Lógica de Orden Superior, Lógica de Segundo Orden, Lógica Predicativa, Orden de Lógica]
 publish: true
 created: 2023-12-08T15:03:00
-modified: 2025-02-17T15:59:45
+modified: 2025-02-17T17:42:26
 ---
 
 ↖️ (fuente:: [[Lógica y Algoritmos|LYA115]], [[— 2023-12-03 Lógica de primer orden (1)|— Lógica de primer orden (1)]])
@@ -26,7 +26,7 @@ modified: 2025-02-17T15:59:45
     - [[Lógica Proposicional - Tablas de Verdad|Tablas de Verdad]]
     - [[Lógica Proposicional - Leyes de Implicación|Leyes de Implicación]]
         - [[Lógica Proposicional - Leyes de Implicación - Demostraciones|Demostraciones de las leyes de Implicación]]
-    - [[Lógica Proposicional - Leyes de Equivalencia|Leyes de Leyes de Equivalencia]]
+    - [[Lógica Proposicional - Leyes de Equivalencia|Leyes de Equivalencia]]
         - [[Lógica Proposicional - Leyes de Equivalencia - Demostraciones|Demostración de las Leyes de Equivalencia]]
 - [[Lógica#Órdenes De Lógica|Orden de Lógica]]
     - [[Lógica Proposicional]] (Lógica de Orden Cero)
