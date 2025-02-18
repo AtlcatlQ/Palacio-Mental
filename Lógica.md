@@ -24,10 +24,9 @@ modified: 2025-02-17T17:42:26
 - [[Lógica - Operadores|Operadores Lógicos]]
 - [[Lógica Proposicional|Lógica Proposicional]]
     - [[Lógica Proposicional - Tablas de Verdad|Tablas de Verdad]]
-    - [[Lógica Proposicional - Leyes de Implicación|Leyes de Implicación]]
-        - [[Lógica Proposicional - Leyes de Implicación - Demostraciones|Demostraciones de las leyes de Implicación]]
-    - [[Lógica Proposicional - Leyes de Equivalencia|Leyes de Equivalencia]]
-        - [[Lógica Proposicional - Leyes de Equivalencia - Demostraciones|Demostración de las Leyes de Equivalencia]]
+    - [[Lógica Proposicional - Leyes Lógicas|Leyes de Implicación]]
+        - [[Lógica Proposicional - Leyes Lógicas - Demostraciones|Demostraciones de las leyes de Implicación]]
+        - [[Lógica Proposicional - Leyes Lógicas - Demostraciones|Demostración de las Leyes de Equivalencia]]
 - [[Lógica#Órdenes De Lógica|Orden de Lógica]]
     - [[Lógica Proposicional]] (Lógica de Orden Cero)
     - [[Lógica de Predicados]] (Lógica de Primer Orden)

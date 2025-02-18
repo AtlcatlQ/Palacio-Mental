@@ -1,13 +1,10 @@
 ---
 tags: [📓]
 status: '🌲'
-aliases:
-  - Proposición
-  - Lógica de Orden Cero
-  - Valor de Verdad
+aliases: [Lógica de Orden Cero, Proposición, Valor de Verdad]
 publish: true
 created: 2023-06-07T17:14:41
-modified: 2023-12-29T16:23:20
+modified: 2025-02-17T18:19:02
 ---
 
 ↖️ (fuente:: [[§ 2023-06-07 Especialización Docente - Matemática - Módulo VII - U4. Cálculo Proposicional|Especialización Docente - Matemática - Módulo VII - U4. Cálculo Proposicional]])
