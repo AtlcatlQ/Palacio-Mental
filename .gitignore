@@ -1,0 +1,39 @@
+# FORMATOS
+## Formatos Binarios
+
+*.png
+*.pdf
+
+# CONFIGURACION DE VAULT
+
+.obsidian/workspace*
+!.obsidian/workspaces.json
+.obsidian/themes/
+
+## Plugins
+
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/manifest.json
+.obsidian/plugins/**/style.css
+!.obsidian/plugins/**/data.json
+
+## Configuraciones de plugins que almacenan tokens/API-keys
+
+.obsidian/plugins/google-calendar/data.json
+.obsidian/plugins/obsidian-toggl-integration/data.json
+.obsidian/plugins/obsidian-zotero-desktop-connector/data.json
+
+# NOTAS
+
+.trash/
+
+## Notas Cambiantes
+
+6-Flujo/0_Mesa-de-Trabajo.md
+6-Flujo/1_Cache.md
+
+# EXTERNOS 
+
+*.ini
+.megaignore
+Rubbish/
