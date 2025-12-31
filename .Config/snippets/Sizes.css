@@ -1,0 +1,13 @@
+.block-language-tracker div {font-family: "JetBrains Mono"; font-size: 1em;}
+
+.canvas-node-content .block-language-tracker {margin: 1rem auto; min-width: fit-content;}
+
+.canvas-node-content .block-language-tracker svg {width: max-content;}
+
+.canvas-node-content p {font-size: 2.5rem;}
+
+.canvas-path-label {font-size: 2rem;}
+
+.canvas-group-label {font-size: 2rem;}
+
+.cm-gutterElement {font-size: 0.8rem; font-family: "JetBrains Mono";} 

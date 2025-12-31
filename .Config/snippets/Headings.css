@@ -1,0 +1,23 @@
+@font-face { font-family: "Rubik"; src: url("/Fuentes/Rubik.ttf"); }
+
+h1, .markdown-rendered h1, h2, .markdown-rendered h2, h3, .markdown-rendered h3, h4, .markdown-rendered h4, h5, .markdown-rendered h5, h6, .markdown-rendered h6 {
+	font-family: "Rubik";
+    font-weight: 800;
+	display: block;
+	padding: 0px;
+}
+
+h1, .markdown-rendered h1, .HyperMD-header-1 { font-size: 2.5rem; border-bottom: 3px solid lightslategray;}
+h2, .markdown-rendered h2, .HyperMD-header-2 { font-size: 2.25rem; }
+h3, .markdown-rendered h3, .HyperMD-header-3 { font-size: 2rem; }
+h4, .markdown-rendered h4, .HyperMD-header-4 { font-size: 1.75rem; }
+h5, .markdown-rendered h5, .HyperMD-header-5 { font-size: 1.5rem; }
+h6, .markdown-rendered h6, .HyperMD-header-6 { font-size: 1.5rem; }
+
+h1, .HyperMD-header-1, .markdown-rendered h1, h2, .HyperMD-header-2, .markdown-rendered h2 {text-align: center;}
+
+h4, .HyperMD-header-4, .markdown-rendered h4, h5, .HyperMD-header-5, .markdown-rendered h5, h6, .HyperMD-header-6, .markdown-rendered h6 {font-style: oblique;}
+
+h5, .HyperMD-header-5, .markdown-rendered h5, h6, .HyperMD-header-6, .markdown-rendered h6 {font-weight: 600;}
+
+h6, .markdown-rendered h6, .HyperMD-header-6 {font-variant-caps: small-caps;}
