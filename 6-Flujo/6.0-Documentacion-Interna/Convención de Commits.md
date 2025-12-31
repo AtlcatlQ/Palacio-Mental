@@ -101,15 +101,18 @@ La lista de verbos utilizados es la siguiente:
 
 # Ejemplos De Commits
 
-    ⚙️ Config (⌨️ Hotkeys): ASSIGN "Command" 
-    ⚙️ Config (📱 Mobile): SET Mobile Toolbar 
-    ⚙️ Config (🔌 Plugins): FIX 🟰 LaTeX Suite snippets file path 
-    ⚙️ Config (⛔ gitignore): ADD "File" 
-    ⚙️ Config (🔌 Plugins): ENABLE 🎞️ Media Extended 
-    ⚙️ Config (🔌 Plugins): UPDATE 🎞️ Media Extended 
-    🗃️ Zettelkasten (📓 Notes): IMPORT "Alfabeto Griego" 
-    🗃️ Zettelkasten (📓 Notes): ADD "Lógica Proposicional" 
-    🗃️ Zettelkasten (📥 Capture): ADD "% MIGALA - ¿De qué trata la vida?" 
-    📦 Modules (✍️ Escritura): UPDATE Module 
-    ♻️ Workflow (🃏 Templates): REFACTOR Capture template 
-    ♻️ Workflow (🗂️ FileClasses): REFACTOR Capture template
+
+```
+⚙️ Config (⌨️ Hotkeys): ASSIGN "Command" 
+⚙️ Config (📱 Mobile): SET Mobile Toolbar 
+⚙️ Config (🔌 Plugins): FIX 🟰 LaTeX Suite snippets file path 
+⚙️ Config (⛔ gitignore): ADD "File" 
+⚙️ Config (🔌 Plugins): ENABLE 🎞️ Media Extended 
+⚙️ Config (🔌 Plugins): UPDATE 🎞️ Media Extended 
+🗃️ Zettelkasten (📓 Notes): IMPORT "Alfabeto Griego" 
+🗃️ Zettelkasten (📓 Notes): ADD "Lógica Proposicional" 
+🗃️ Zettelkasten (📥 Capture): ADD "% MIGALA - ¿De qué trata la vida?" 
+📦 Modules (✍️ Escritura): UPDATE Module 
+♻️ Workflow (🃏 Templates): REFACTOR Capture template 
+♻️ Workflow (🗂️ FileClasses): REFACTOR Capture template
+```
