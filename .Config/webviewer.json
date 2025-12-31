@@ -1,0 +1,8 @@
+{
+  "openExternalURLs": true,
+  "enableAdblocking": true,
+  "homepage": "",
+  "customSearchEngine": "https://www.ecosia.org/search?method=index&q=%s",
+  "searchEngine": "custom",
+  "markdownPath": "B-Attachments"
+}
