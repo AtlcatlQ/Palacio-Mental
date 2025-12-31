@@ -14,7 +14,7 @@
 
 .Config/plugins/**/main.js
 .Config/plugins/**/manifest.json
-.Config/plugins/**/style.css
+.Config/plugins/**/styles.css
 !.Config/plugins/**/data.json
 
 ## Configuraciones de plugins que almacenan tokens/API-keys
