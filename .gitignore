@@ -6,22 +6,22 @@
 
 # CONFIGURACION DE VAULT
 
-.obsidian/workspace*
-!.obsidian/workspaces.json
-.obsidian/themes/
+.Config/workspace*
+!.Config/workspaces.json
+.Config/themes/
 
 ## Plugins
 
-.obsidian/plugins/**/main.js
-.obsidian/plugins/**/manifest.json
-.obsidian/plugins/**/style.css
-!.obsidian/plugins/**/data.json
+.Config/plugins/**/main.js
+.Config/plugins/**/manifest.json
+.Config/plugins/**/style.css
+!.Config/plugins/**/data.json
 
 ## Configuraciones de plugins que almacenan tokens/API-keys
 
-.obsidian/plugins/google-calendar/data.json
-.obsidian/plugins/obsidian-toggl-integration/data.json
-.obsidian/plugins/obsidian-zotero-desktop-connector/data.json
+.Config/plugins/google-calendar/data.json
+.Config/plugins/obsidian-toggl-integration/data.json
+.Config/plugins/obsidian-zotero-desktop-connector/data.json
 
 # NOTAS
 
