@@ -1,0 +1,47 @@
+{
+  "mobileToolbarCommands": [
+    "obsidian-outliner:indent-list",
+    "editor:swap-line-up",
+    "editor:undo",
+    "obsidian-outliner:outdent-list",
+    "editor:swap-line-down",
+    "editor:redo",
+    "obsidian-smarter-md-hotkeys:smarter-asterisk-italics",
+    "obsidian-smarter-md-hotkeys:smarter-wikilink",
+    "editor:toggle-bullet-list",
+    "obsidian-smarter-md-hotkeys:smarter-asterisk-bold",
+    "obsidian-smarter-md-hotkeys:smarter-wikilink-heading",
+    "editor:toggle-numbered-list",
+    "obsidian-smarter-md-hotkeys:smarter-inline-code",
+    "obsidian-smarter-md-hotkeys:smarter-md-link",
+    "editor:set-heading",
+    "obsidian-outliner:move-list-item-down",
+    "obsidian-outliner:move-list-item-up",
+    "editor:toggle-source",
+    "obsidian-better-command-palette:open-better-commmand-palette",
+    "editor:context-menu",
+    "obsidian-smarter-md-hotkeys:smarter-math",
+    "obsidian-smarter-md-hotkeys:smarter-upper-lower"
+  ],
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0-INBOX",
+  "attachmentFolderPath": "B-Attachments",
+  "showLineNumber": true,
+  "vimMode": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Rubbish/"
+  ],
+  "uriCallbacks": true,
+  "mobilePullAction": "obsidian-better-command-palette:open-better-commmand-palette",
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
