@@ -1,0 +1,28 @@
+{
+  "pluginList": [
+    "3C0D/obsidian-repeat-last-commands",
+    "chrisgrieser/obsidian-smarter-md-hotkeys"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "3C0D/obsidian-repeat-last-commands",
+      "version": "latest"
+    },
+    {
+      "repo": "chrisgrieser/obsidian-smarter-md-hotkeys",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": false,
+  "updateThemesAtStartup": false,
+  "enableAfterInstall": false,
+  "loggingEnabled": true,
+  "loggingPath": "B-Attachments/B.0-Config/BRAT-LOG",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": true,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
