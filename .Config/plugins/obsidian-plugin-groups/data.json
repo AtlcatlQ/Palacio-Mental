@@ -1,7 +1,7 @@
 {
   "groups": [
     {
-      "loadAtStartup": true,
+      "loadAtStartup": false,
       "disableOnStartup": false,
       "delay": 10,
       "id": "pgatajosdeteclado",
@@ -49,7 +49,7 @@
       "assignedDevices": []
     },
     {
-      "loadAtStartup": true,
+      "loadAtStartup": false,
       "disableOnStartup": false,
       "delay": 10,
       "id": "pgdistribucindeespacio",
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "loadAtStartup": true,
+      "loadAtStartup": false,
       "disableOnStartup": false,
       "delay": 15,
       "id": "pggestindemetadatos",
@@ -208,7 +208,7 @@
       "assignedDevices": []
     },
     {
-      "loadAtStartup": true,
+      "loadAtStartup": false,
       "disableOnStartup": false,
       "delay": 10,
       "id": "pgintegraciones",
