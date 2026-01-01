@@ -1,0 +1,397 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 10,
+      "id": "pgatajosdeteclado",
+      "name": "⌨️ Atajos de Teclado",
+      "plugins": [
+        {
+          "id": "table-editor-obsidian",
+          "name": "Advanced Tables"
+        },
+        {
+          "id": "quickadd",
+          "name": "QuickAdd"
+        },
+        {
+          "id": "obsidian-wrap-with-shortcuts",
+          "name": "Wrap with shortcuts"
+        },
+        {
+          "id": "typewriter-mode",
+          "name": "Typewriter Mode"
+        },
+        {
+          "id": "obsidian-sequence-hotkeys",
+          "name": "Sequence Hotkeys"
+        },
+        {
+          "id": "obsidian-latex-suite",
+          "name": "Latex Suite"
+        },
+        {
+          "id": "highlightr-plugin",
+          "name": "Highlightr"
+        },
+        {
+          "id": "obsidian-smarter-md-hotkeys",
+          "name": "Smarter Markdown Hotkeys"
+        },
+        {
+          "id": "obsidian-vimrc-support",
+          "name": "Vimrc Support"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": []
+    },
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 10,
+      "id": "pgdistribucindeespacio",
+      "name": "Distribución de Espacio",
+      "plugins": [
+        {
+          "id": "pane-relief",
+          "name": "Pane Relief"
+        },
+        {
+          "id": "workspaces-plus",
+          "name": "Workspaces Plus"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": []
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgautomatizacin",
+      "name": "🔄️ Automatización",
+      "plugins": [
+        {
+          "id": "quickadd",
+          "name": "QuickAdd"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pggestindeplugins",
+      "name": "🔌 Gestión de Plugins",
+      "plugins": [
+        {
+          "id": "obsidian42-brat",
+          "name": "BRAT"
+        },
+        {
+          "id": "obsidian-plugin-update-tracker",
+          "name": "Plugin Update Tracker"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 25,
+      "id": "pggestindearchivos",
+      "name": "📂 Gestión de Archivos",
+      "plugins": [
+        {
+          "id": "file-tree-alternative",
+          "name": "File Tree Alternative"
+        },
+        {
+          "id": "recent-files-obsidian",
+          "name": "Recent Files"
+        },
+        {
+          "id": "obsidian-trash-explorer",
+          "name": "Trash Explorer"
+        }
+      ],
+      "groupIds": [
+        "pggestindeimgenes"
+      ],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgflujodetrabajo",
+      "name": "♻️ Flujo de Trabajo",
+      "plugins": [],
+      "groupIds": [
+        "pgatajosdeteclado",
+        "pggestindeplugins",
+        "pgdistribucindeespacio",
+        "pgautomatizacin"
+      ],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pggestindeimgenes",
+      "name": "🖼️ Gestión de Imágenes",
+      "plugins": [],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": [
+        "METATRON",
+        "P4 - Gabrielle"
+      ]
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgplantillas",
+      "name": "🃏 Plantillas",
+      "plugins": [
+        {
+          "id": "quickadd",
+          "name": "QuickAdd"
+        },
+        {
+          "id": "templater-obsidian",
+          "name": "Templater"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": [
+        "P4 - Gabrielle",
+        "METATRON"
+      ]
+    },
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 15,
+      "id": "pggestindemetadatos",
+      "name": "🔑 Gestión de Metadatos",
+      "plugins": [
+        {
+          "id": "dataview",
+          "name": "Dataview"
+        },
+        {
+          "id": "metadata-menu",
+          "name": "Metadata Menu"
+        },
+        {
+          "id": "tag-wrangler",
+          "name": "Tag Wrangler"
+        },
+        {
+          "id": "breadcrumbs",
+          "name": "Breadcrumbs"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": []
+    },
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 10,
+      "id": "pgintegraciones",
+      "name": "🧩 Integraciones",
+      "plugins": [
+        {
+          "id": "obsidian-toggl-integration",
+          "name": "Toggl Track"
+        },
+        {
+          "id": "google-calendar",
+          "name": "Google Calendar"
+        },
+        {
+          "id": "obsidian-zotero-desktop-connector",
+          "name": "Zotero Integration"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false,
+      "assignedDevices": []
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgdiario",
+      "name": "📒 Diario",
+      "plugins": [
+        {
+          "id": "periodic-notes",
+          "name": "Periodic Notes"
+        },
+        {
+          "id": "daily-note-calendar",
+          "name": "Daily notes calendar"
+        },
+        {
+          "id": "quickadd",
+          "name": "QuickAdd"
+        }
+      ],
+      "groupIds": [
+        "pgseguimientodehbitos"
+      ],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgseguimientodehbitos",
+      "name": "🔂 Seguimiento de Hábitos",
+      "plugins": [
+        {
+          "id": "dataview",
+          "name": "Dataview"
+        },
+        {
+          "id": "obsidian-tracker",
+          "name": "Tracker"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pggestindetareas",
+      "name": "📌 Gestión de Tareas",
+      "plugins": [
+        {
+          "id": "google-calendar",
+          "name": "Google Calendar"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgestilo",
+      "name": "Estilo",
+      "plugins": [],
+      "groupIds": [
+        "pginterfaz",
+        "pgformato"
+      ],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pginterfaz",
+      "name": "💄 Interfaz",
+      "plugins": [
+        {
+          "id": "better-word-count",
+          "name": "Better Word Count"
+        },
+        {
+          "id": "cmdr",
+          "name": "Commander"
+        },
+        {
+          "id": "hide-commands-in-menu",
+          "name": "Hide Commands in Menu"
+        },
+        {
+          "id": "obsidian-relative-line-numbers",
+          "name": "Relative Line Numbers"
+        },
+        {
+          "id": "obsidian-style-settings",
+          "name": "Style Settings"
+        },
+        {
+          "id": "supercharged-links-obsidian",
+          "name": "Supercharged Links"
+        },
+        {
+          "id": "typewriter-mode",
+          "name": "Typewriter Mode"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgformato",
+      "name": "🔦 Formato",
+      "plugins": [
+        {
+          "id": "table-editor-obsidian",
+          "name": "Advanced Tables"
+        },
+        {
+          "id": "obsidian-linter",
+          "name": "Linter"
+        },
+        {
+          "id": "obsidian-outliner",
+          "name": "Outliner"
+        },
+        {
+          "id": "obsidian-smarter-md-hotkeys",
+          "name": "Smarter Markdown Hotkeys"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    },
+    {
+      "loadAtStartup": false,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgprocesamientodelainformacin",
+      "name": "📥 Procesamiento de la Información",
+      "plugins": [
+        {
+          "id": "obsidian-zotero-desktop-connector",
+          "name": "Zotero Integration"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    }
+  ],
+  "generateCommands": false,
+  "showNoticeOnGroupLoad": "normal",
+  "devLogs": true,
+  "devices": [
+    "P4 - Gabrielle",
+    "METATRON"
+  ],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "Icon"
+}
