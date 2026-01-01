@@ -7,5 +7,6 @@
   "obsidian-relative-line-numbers",
   "obsidian-linter",
   "obsidian-vimrc-support",
-  "obsidian-plugin-groups"
+  "obsidian-plugin-groups",
+  "obsidian-plugin-update-tracker"
 ]
