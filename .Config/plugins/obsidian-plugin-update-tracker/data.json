@@ -1,0 +1,16 @@
+{
+  "daysToSuppressNewUpdates": 0,
+  "dismissedVersionsByPluginId": {
+    "obsidian-excalidraw-plugin": {
+      "pluginId": "obsidian-excalidraw-plugin",
+      "pluginRepoPath": "zsviczian/obsidian-excalidraw-plugin",
+      "dismissedVersions": []
+    }
+  },
+  "showIconOnMobile": false,
+  "showNotificationOnNewUpdate": true,
+  "excludeBetaVersions": true,
+  "excludeDisabledPlugins": true,
+  "minUpdateCountToShowIcon": 0,
+  "hoursBetweenCheckingForUpdates": 0.5
+}
