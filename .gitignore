@@ -17,6 +17,10 @@
 .Config/plugins/**/styles.css
 !.Config/plugins/**/data.json
 
+### Autogenerados
+
+.Config/snippets/supercharged-links-gen.css
+
 ## Configuraciones de plugins que almacenan tokens/API-keys
 
 .Config/plugins/google-calendar/data.json
