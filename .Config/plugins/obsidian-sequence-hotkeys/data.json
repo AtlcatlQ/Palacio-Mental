@@ -1,0 +1,305 @@
+{
+  "hotkeys": [
+    {
+      "command": "editor:insert-table",
+      "chords": [
+        "A-Backquote",
+        "KeyN"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:center-align-column",
+      "chords": [
+        "A-Backquote",
+        "KeyK"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:delete-column",
+      "chords": [
+        "A-Backquote",
+        "Backspace"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:delete-row",
+      "chords": [
+        "A-Backquote",
+        "S-Backspace"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:transpose",
+      "chords": [
+        "A-Backquote",
+        "KeyT"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:sort-rows-descending",
+      "chords": [
+        "A-Backquote",
+        "S-KeyS"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:sort-rows-ascending",
+      "chords": [
+        "A-Backquote",
+        "KeyS"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:right-align-column",
+      "chords": [
+        "A-Backquote",
+        "KeyL"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:insert-column",
+      "chords": [
+        "A-Backquote",
+        "KeyI"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:insert-row",
+      "chords": [
+        "A-Backquote",
+        "S-KeyI"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:left-align-column",
+      "chords": [
+        "A-Backquote",
+        "KeyH"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:move-column-left",
+      "chords": [
+        "A-Backquote",
+        "S-KeyM"
+      ]
+    },
+    {
+      "command": "table-editor-obsidian:move-column-right",
+      "chords": [
+        "A-Backquote",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:next-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "A-KeyY"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-daily-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyD"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-monthly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyM"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:prev-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "S-KeyY"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-quarterly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyQ"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-weekly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyW"
+      ]
+    },
+    {
+      "command": "periodic-notes:open-yearly-note",
+      "chords": [
+        "C-A-KeyD",
+        "KeyY"
+      ]
+    },
+    {
+      "command": "quickadd:choice:1f903bf3-022b-43f1-acde-4f98f643e312",
+      "chords": [
+        "A-KeyD",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "quickadd:choice:32071c4c-d54b-4c2d-a212-c05d844d8a75",
+      "chords": [
+        "A-S-KeyD",
+        "KeyH"
+      ]
+    },
+    {
+      "command": "quickadd:choice:f2166ec1-69df-426d-b0f5-377026cf7e9e",
+      "chords": [
+        "A-S-KeyD",
+        "KeyL"
+      ]
+    },
+    {
+      "command": "quickadd:choice:84a30a7d-53e2-4d91-b97b-ee904f9fcb70",
+      "chords": [
+        "A-KeyD",
+        "S-KeyD"
+      ]
+    },
+    {
+      "command": "quickadd:choice:2a948dfb-00de-4bc6-a54b-e5980536c9db",
+      "chords": [
+        "A-S-KeyD",
+        "KeyA"
+      ]
+    },
+    {
+      "command": "workspace:close-others-tab-group",
+      "chords": [
+        "C-A-KeyW",
+        "KeyW"
+      ]
+    },
+    {
+      "command": "workspace:close-tab-group",
+      "chords": [
+        "C-A-KeyW",
+        "S-KeyW"
+      ]
+    },
+    {
+      "command": "workspace:move-to-new-window",
+      "chords": [
+        "C-A-KeyW",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "workspace:toggle-stacked-tabs",
+      "chords": [
+        "C-A-KeyW",
+        "KeyS"
+      ]
+    },
+    {
+      "command": "workspace:open-in-new-window",
+      "chords": [
+        "C-A-KeyW",
+        "S-KeyD"
+      ]
+    },
+    {
+      "command": "workspace:split-vertical",
+      "chords": [
+        "C-A-KeyW",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "quickadd:choice:7ec9198c-7ef2-4bdc-89ec-4147f3b6f3e6",
+      "chords": [
+        "A-S-KeyD",
+        "KeyM"
+      ]
+    },
+    {
+      "command": "media-extended:set-speed-2x",
+      "chords": [
+        "C-S-KeyM",
+        "KeyD"
+      ]
+    },
+    {
+      "command": "media-extended:set-speed-3x",
+      "chords": [
+        "C-S-KeyM",
+        "KeyT"
+      ]
+    },
+    {
+      "command": "media-extended:set-speed-0.25x",
+      "chords": [
+        "C-S-KeyM",
+        "KeyQ"
+      ]
+    }
+  ]
+}
