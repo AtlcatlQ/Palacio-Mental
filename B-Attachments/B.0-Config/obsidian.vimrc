@@ -21,9 +21,9 @@ nnoremap <leader>' '
 " INDENTATION
 
 nnoremap <leader>L >>
-vnoremap <leader>L >>
+vnoremap <leader>L >gv
 nnoremap <leader>H <<
-vnoremap <leader>H <<
+vnoremap <leader>H <gv
 nnoremap <leader>l >
 nnoremap <leader>h <
 
