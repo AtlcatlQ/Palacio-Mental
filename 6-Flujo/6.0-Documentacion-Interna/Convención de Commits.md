@@ -52,7 +52,7 @@ Como cada uno de los niveles de funcionamiento de la vault afectan a partes dist
 - **📱 Mobile:** Configuración de Obsidian en Android 
 - **⌨️ Hotkeys:** Cambiar, añadir o modificar atajos.
 - **🔌 Plugins:** gestión de plugins.
-- **💄 Style:** Estilo de Obsidian (UI, CSS Snippets, Themes, etc.).
+- **💄 Style:** Cambios en cómo se visualizan las cosas en Obsidian
 - **⛔ gitignore:** Modificaciones hechas a gitignore.
 
 ## ♻️ Workflow
