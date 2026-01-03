@@ -2,7 +2,7 @@
 
 " LEADER
 
-let mapleader = "Ñ"
+let mapleader = "ñ"
 
 nnoremap <leader><leader> \
 
