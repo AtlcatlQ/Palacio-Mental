@@ -95,6 +95,7 @@ La lista de verbos utilizados es la siguiente:
 - `SET`: Cambio en la configuración. Evita usar `configure` como un verbo para evitar repetición.
 - `FIX`: Cambios en cosas que no funcionaban
 - `UPDATE`: Cambios en cosas que funcionan (Actualizaciones). también aplica para cambios de versión de plugins.
+- `REFINE`: Modificaciones que impliquen una mejora o un ajuste fino de estilo. (pasar de algo tosco a algo mejor ajustado)
 - `RENAME`: Cambios de nombre de ficheros
 - `REFACTOR`: Reorganización de información sin cambiar el significado
 - `LINT`: Corrección de formato en las notas o documentación utilizando [[Linter|Linter (Obsidian Plugin)]].
