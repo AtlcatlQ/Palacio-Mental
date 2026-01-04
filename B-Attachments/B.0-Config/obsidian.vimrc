@@ -8,8 +8,6 @@
 nunmap <Space>
 vunmap <Space>
 
-nnoremap <space><space> \
-
 " MACROS
 
 nnoremap Q @
