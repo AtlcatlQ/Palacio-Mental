@@ -1,53 +1,57 @@
 " Remapeo de Teclas adaptado para Layouts en Español Latino (Ñ)
 
 " LEADER
+" Se ha optado por establecer '<space>' como <leader> de forma manual (pseudo leader)
+" Debido a que no existe forma de establecer una leader key en el modo Vim de Code Mirror
+" Y es lo que utiliza Obsidian para sus Vim Keybindings" LEADER
 
-let mapleader = " "
+nunmap <Space>
+vunmap <Space>
 
-nnoremap <leader><leader> \
+nnoremap <space><space> \
 
 " MACROS
 
 nnoremap Q @
 vnoremap Q @
 nnoremap QQ @@
-nnoremap <leader>Q @@
+nnoremap <space>Q @@
 
 " MARKS
 
 nnoremap ' `
-nnoremap <leader>' '
+nnoremap <space>' '
 
 " INDENTATION
 
-nnoremap <leader>L >>
-vnoremap <leader>L >gv
-nnoremap <leader>H <<
-vnoremap <leader>H <gv
-nnoremap <leader>l >
-nnoremap <leader>h <
+nnoremap <space>L >>
+vnoremap <space>L >gv
+nnoremap <space>H <<
+vnoremap <space>H <gv
+nnoremap <space>l >
+nnoremap <space>h <
 
 " CLIPBOARD
 
-nnoremap <leader>y "+y
-vnoremap <leader>y "+y
-nnoremap <leader>Y "+Y
-vnoremap <leader>Y "+Y
+nnoremap <space>y "+y
+vnoremap <space>y "+y
+nnoremap <space>Y "+Y
+vnoremap <space>Y "+Y
 
-nnoremap <leader>d "+d
-vnoremap <leader>d "+d
-nnoremap <leader>D "+D
-vnoremap <leader>D "+D
+nnoremap <space>d "+d
+vnoremap <space>d "+d
+nnoremap <space>D "+D
+vnoremap <space>D "+D
 
-nnoremap <leader>c "+c
-vnoremap <leader>c "+c
-nnoremap <leader>C "+C
-vnoremap <leader>C "+C
+nnoremap <space>c "+c
+vnoremap <space>c "+c
+nnoremap <space>C "+C
+vnoremap <space>C "+C
 
-nnoremap <leader>p "+p
-vnoremap <leader>p "+p
-nnoremap <leader>P "+P
-vnoremap <leader>P "+P
+nnoremap <space>p "+p
+vnoremap <space>p "+p
+nnoremap <space>P "+P
+vnoremap <space>P "+P
 
 " MOVEMENTS
 
