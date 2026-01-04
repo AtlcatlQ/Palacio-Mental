@@ -52,3 +52,14 @@ vnoremap <leader>P "+P
 " MOVEMENTS
 
 nnoremap gh ^
+
+" Visual Lines
+
+nnoremap k gk
+nnoremap gk k
+vnoremap k gk
+vnoremap gk k
+nnoremap j gj
+nnoremap gj j
+vnoremap j gj
+vnoremap gj j
