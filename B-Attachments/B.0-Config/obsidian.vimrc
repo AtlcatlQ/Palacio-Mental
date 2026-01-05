@@ -1,4 +1,11 @@
+" -------------------------------------------------------------
 " Remapeo de Teclas adaptado para Layouts en Español Latino (Ñ)
+" -------------------------------------------------------------
+
+" WARNING: el plugin vimrc-support de obsidian, actualmente no recibe
+" mantenimiento. El plugin no funciona desde la migración de obsidian a
+" CodeMirror 6.
+"
 
 " LEADER
 " Se ha optado por establecer '<space>' como <leader> de forma manual (pseudo leader)
