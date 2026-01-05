@@ -5,10 +5,9 @@
 " WARNING: el plugin vimrc-support de obsidian, actualmente no recibe
 " mantenimiento. El plugin no funciona desde la migración de obsidian a
 " CodeMirror 6.
-"
 
 " LEADER
-" Se ha optado por establecer '<space>' como <leader> de forma manual (pseudo leader)
+" Se ha optado por establecer 'ñ' como <leader> de forma manual (pseudo leader)
 " Debido a que no existe forma de establecer una leader key en el modo Vim de Code Mirror
 " Y es lo que utiliza Obsidian para sus Vim Keybindings" LEADER
 
@@ -20,43 +19,43 @@ vunmap <Space>
 nnoremap Q @
 vnoremap Q @
 nnoremap QQ @@
-nnoremap <space>Q @@
+nnoremap ñQ @@
 
 " MARKS
 
 nnoremap ' `
-nnoremap <space>' '
+nnoremap ñ' '
 
 " INDENTATION
 
-nnoremap <space>L >>
-vnoremap <space>L >gv
-nnoremap <space>H <<
-vnoremap <space>H <gv
-nnoremap <space>l >
-nnoremap <space>h <
+nnoremap ñL >>
+vnoremap ñL >gv
+nnoremap ñH <<
+vnoremap ñH <gv
+nnoremap ñl >
+nnoremap ñh <
 
 " CLIPBOARD
 
-nnoremap <space>y "+y
-vnoremap <space>y "+y
-nnoremap <space>Y "+Y
-vnoremap <space>Y "+Y
+nnoremap ñy "+y
+vnoremap ñy "+y
+nnoremap ñY "+Y
+vnoremap ñY "+Y
 
-nnoremap <space>d "+d
-vnoremap <space>d "+d
-nnoremap <space>D "+D
-vnoremap <space>D "+D
+nnoremap ñd "+d
+vnoremap ñd "+d
+nnoremap ñD "+D
+vnoremap ñD "+D
 
-nnoremap <space>c "+c
-vnoremap <space>c "+c
-nnoremap <space>C "+C
-vnoremap <space>C "+C
+nnoremap ñc "+c
+vnoremap ñc "+c
+nnoremap ñC "+C
+vnoremap ñC "+C
 
-nnoremap <space>p "+p
-vnoremap <space>p "+p
-nnoremap <space>P "+P
-vnoremap <space>P "+P
+nnoremap ñp "+p
+vnoremap ñp "+p
+nnoremap ñP "+P
+vnoremap ñP "+P
 
 " MOVEMENTS
 
