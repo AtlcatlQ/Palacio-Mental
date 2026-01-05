@@ -72,3 +72,8 @@ nnoremap ñp "+p
 vnoremap ñp "+p
 nnoremap ñP "+P
 vnoremap ñP "+P
+
+" MISC UTILITY
+
+nnoremap ño o<Esc>k
+nnoremap ñO O<Esc>j
