@@ -14,6 +14,22 @@
 nunmap <Space>
 vunmap <Space>
 
+
+" MOVEMENTS
+
+nnoremap gh ^
+
+" Visual Lines
+
+nnoremap k gk
+nnoremap gk k
+vnoremap k gk
+vnoremap gk k
+nnoremap j gj
+nnoremap gj j
+vnoremap j gj
+vnoremap gj j
+
 " MACROS
 
 nnoremap Q @
@@ -56,18 +72,3 @@ nnoremap ñp "+p
 vnoremap ñp "+p
 nnoremap ñP "+P
 vnoremap ñP "+P
-
-" MOVEMENTS
-
-nnoremap gh ^
-
-" Visual Lines
-
-nnoremap k gk
-nnoremap gk k
-vnoremap k gk
-vnoremap gk k
-nnoremap j gj
-nnoremap gj j
-vnoremap j gj
-vnoremap gj j
