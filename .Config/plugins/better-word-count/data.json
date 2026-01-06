@@ -55,5 +55,5 @@
   "collectStats": true,
   "displaySectionCounts": true,
   "pageWords": 300,
-  "statsPath": ".Conf/vault-stats.json"
+  "statsPath": "B-Attachments/B.0-Config/vault-stats.json"
 }
