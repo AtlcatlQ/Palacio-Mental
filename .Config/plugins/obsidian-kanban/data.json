@@ -1,0 +1,8 @@
+{
+  "lane-width": 400,
+  "show-checkboxes": true,
+  "full-list-lane-width": true,
+  "tag-action": "kanban",
+  "archive-date-format": "YYYY-MM-DD[T]HH:mm",
+  "date-picker-week-start": 1
+}
