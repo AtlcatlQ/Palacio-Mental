@@ -4,7 +4,7 @@ tags:
 aliases: []
 publish: false
 created: 2025-12-28T04:14:14
-modified: 2026-01-03T03:37:48
+modified: 2026-01-23T23:41:11
 ---
 
 ⬆️ (categorías:: [[Git]])
@@ -88,20 +88,26 @@ Los verbos utilizados, también, procuran ser *transversales*, es decir, que se 
 
 La lista de verbos utilizados es la siguiente:
 
-- `ADD`: Añadir algo nuevo
-- `IMPORT`: Ingresar en la Vault información que estaba presente antes de llevar el control de versiones
-- `DISTILL`: Añadir contenido a una Permanent note, a partir de una Nota de Captura (#🔗) ^[Inspirado en el flujo de trabajo C. O. D. E. de Thiago Forte]
-- `ASSIGN`: Configurar un Atajo de teclado por primera vez %% Sujeto a Revisión %%
-- `SET`: Cambio en la configuración. Evita usar `configure` como un verbo para evitar repetición.
-- `FIX`: Cambios en cosas que no funcionaban
-- `UPDATE`: Cambios en cosas que funcionan (Actualizaciones). también aplica para cambios de versión de plugins.
-- `REFINE`: Modificaciones que impliquen una mejora o un ajuste fino de estilo. (pasar de algo tosco a algo mejor ajustado)
-- `RENAME`: Cambios de nombre de ficheros
-- `REFACTOR`: Reorganización de información sin cambiar el significado
-- `LINT`: Corrección de formato en las notas o documentación utilizando [[Linter|Linter (Obsidian Plugin)]].
+- `DISTILL`: Añadir contenido a una Permanent note, a partir de una Nota de Captura
+- `SPLIT`: Dividir una nota en dos notas más específicas (mayor atomicidad)
+- `MERGE`: Combinar dos notas de temas similares en una misma (mayor claridad)
 - `ARCHIVE`: Mueve notas de captura ya procesadas al archivo de P. A. R. A.
-- `REMOVE`: Elimina algo del sistema o de las notas
-- `ENABLE` / `DISABLE`: Propios de Plugins y de algunas otras configuraciones
+- `UPDATE`: Actualizar el modulo
+- `SET`: Cambiar opciones de configuración (Set `<option>` to `<value>`),
+- `ASSIGN`: Configurar un atajo de teclado
+- `ENABLE`: Habilitar (principalmente plugins)
+- `DISABLE`: Deshabilitar (principalmente plugins)
+- `ADD`: Añadir un elemento nuevo (genérico)
+- `FIX`:Corregir algo que no funcionaba
+- `IMPORT`: Agregar elemento que estaba presente en la vault anterior (Previo al seguimiento con Git)
+- `REFINE`: Mejora en explicación (redacción y expansión del concepto)
+- `RENAME`: Cambio de nombre de fichero
+- `REFACTOR`: Reorganización de la información sin cambiar su significado
+- `LINT`: Corrección de formato en las notas o documentación utilizando [[Linter|Linter (Obsidian Plugin)]].
+- Corrección de formato (Usando Linter)
+- `REMOVE`: Eliminar algo (genérico)
+- `REVERT`: Regresar algo a una versión anterior
+- `MOVE`: Cambiar un fichero de carpeta (Genérico)
 
 # Ejemplos De Commits
 
