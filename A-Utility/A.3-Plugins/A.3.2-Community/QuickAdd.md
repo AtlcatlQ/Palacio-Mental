@@ -8,7 +8,7 @@ aliases:
   - Añadido Rápido
 publish: true
 created: 2025-05-04T00:12:51
-modified: 2026-01-23T22:52:47
+modified: 2026-01-23T23:12:22
 linter-alias: ⚙️ Configuración
 uses:
   - ⌨️
@@ -55,5 +55,7 @@ uses:
 > - *Plantilla*: Crea una nueva nota en base a una [[Templater|Plantilla]].
 > - ==Macro==: Serie de comandos ejecutados uno detrás de otro de forma agrupada.
 > - Captura: Añade información con formatos específicos a determinadas notas.
+
+- *🪵 Mensaje de Commit (Git)*: Auto-generador del mensaje de commit para Git. ^[Si existe el archivo usado (`A-Utility/commit-message.md`) crea uno que lo sobre escribe]  
 
 ## 🔄️ Macros
