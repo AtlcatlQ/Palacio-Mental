@@ -1,5 +1,36 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "e4e454a1-b80b-4260-b025-783c9c3e64a2",
+      "name": "🪵 Mensaje de Commit (Git)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "A-Utility/A.2-Templates/commit-message-generator.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "commit-message"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "A-Utility"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Overwrite the file",
+      "setFileExistsBehavior": true
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "A-Utility/A.2-Templates",
