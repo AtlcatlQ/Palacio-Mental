@@ -23,5 +23,6 @@
   "dataview",
   "obsidian-git",
   "obsidian-kanban",
-  "templater-obsidian"
+  "templater-obsidian",
+  "quickadd"
 ]
