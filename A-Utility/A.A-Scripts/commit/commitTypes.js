@@ -1,6 +1,6 @@
 /**
  * Diccionario de Convención de Commits
- * @returns {Object} Orquestador de convención
+ * @returns {Object} Tipos de Commits posibles con sus Respectivos Scopes y Verbos
  */ 
 
 module.exports = () => {

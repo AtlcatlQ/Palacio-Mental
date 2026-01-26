@@ -1,6 +1,6 @@
 /**
  * Diccionario de Verbos globales de mis commits
- * @returns {Object} Orquestador de verbos
+ * @returns {Object} Lista de verbos generales para los commits
 */
 
 module.exports = () => {
