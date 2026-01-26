@@ -9,6 +9,7 @@ publish: true
 created: 2025-07-20T18:44:07
 modified: 2026-01-06T03:31:52
 uses:
+icon: 🪵
 ---
 
 ⬆️ (categorías::)
