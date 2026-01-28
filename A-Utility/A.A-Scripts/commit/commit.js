@@ -1,5 +1,5 @@
 /**
- * Asistente de creación de mensajes de commits
+ * @description Asistente de creación de mensajes de commits
  * @param {Object} tp - Requiere importar el Objeto de Templater
  * @returns {string} Mensaje de commit según convención interna
  */  

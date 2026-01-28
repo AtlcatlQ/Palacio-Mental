@@ -1,5 +1,5 @@
 /**
- * Diccionario de Convención de Commits
+ * @description Diccionario de Convención de Commits
  * @returns {Object} Tipos de Commits posibles con sus Respectivos Scopes y Verbos
  */ 
 

@@ -1,5 +1,5 @@
 /**
- * Diccionario de Verbos globales de mis commits
+ * @description Diccionario de Verbos globales de mis commits
  * @returns {Object} Lista de verbos generales para los commits
 */
 
