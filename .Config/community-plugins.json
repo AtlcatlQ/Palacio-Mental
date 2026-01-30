@@ -24,5 +24,6 @@
   "obsidian-git",
   "obsidian-kanban",
   "templater-obsidian",
-  "quickadd"
+  "quickadd",
+  "settings-search"
 ]
