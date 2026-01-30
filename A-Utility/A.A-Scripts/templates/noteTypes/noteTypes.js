@@ -1,0 +1,90 @@
+/**
+ * @description Diccionario de Tipos de Notas
+ * @returns {Object} Tipos de Notas posibles con sus respectivas seciones y metadatos
+ */
+
+module.exports = () => {
+	const types = {
+		/*
+		// Personal
+		"personal": {
+			"label": "㊙️ Personal",
+			"folder": "5-REGISTRO", 
+			"handler": async (tp, template) => await tp.user.personalHandler(tp, template), 
+		},
+
+		// P. A. R. A.
+		"area": {
+			"label": "🪐 ÁREA",
+			"folder": "2-AREAS", 
+			"handler": async (tp, template) => await tp.user.areaHandler(tp, template), 
+		},
+		"project": {
+			"label": "🏹 PROYECTO",
+			"folder": "1-PROJECTS", 
+			"handler": async (tp, template) => await tp.user.projectHandler(tp, template), 
+		},
+		*/
+
+		// Workflow
+		"documentation": {
+			"label": "📃 Documentación Interna",
+			"folder": "6-Flujo/6.0-Documentacion-Interna",
+			"handler": async (tp, template) => await tp.user.documentationHandler(tp, template),
+		},
+
+		/*
+		// Configuration
+		"classes": {
+			"label": "🗂️ Clase",
+			"folder": "A-Utility/A.1-Classes", 
+			"handler": async (tp, template) => await tp.user.classesHandler(tp, template), 
+		},
+		"plugin": {
+			"label": "🔌 Revisión de Plugin",
+			"folder": "A-Utility/A.3-Plugins", 
+			"handler": async (tp, template) => await tp.user.pluginHandler(tp, template), 
+		},
+		"theme": {
+			"label": "💄 Revisión de Tema",
+			"folder": "A-Utility/A.4-Temas", 
+			"handler": async (tp, template) => await tp.user.themeHandler(tp, template), 
+		},
+		"snippets": {
+			"label": "💄 Revisión de CSS Snippets",
+			"folder": "A-Utility/A.5-Snippets", 
+			"handler": async (tp, template) => await tp.user.snippetsHandler(tp, template), 
+		},
+		// Writing
+		"writing": {
+			"label": "✍️ Escrito",
+			"folder": "7-Crisol-de-Escritura/7.A-Manuscritos", 
+			"handler": async (tp, template) => await tp.user.writingHandler(tp, template), 
+		},
+
+		// Zettelkasten
+		"capture": {
+			"label": "📥 Nota de Captura",
+			"folder": "0-INBOX/0.1-Captura", 
+			"handler": async (tp, template) => await tp.user.captureHandler(tp, template), 
+			
+		},
+		"permanent": {
+			"label": "📓 Nota Permanente",
+			"folder": "0-INBOX", 
+			"handler": async (tp, template) => await tp.user.noteHandler(tp, template), 
+		},
+		"default": {
+			// Este tipo es especial porque en realidad es un subtipo de nota de captura
+			// Pero lo voy a hacer el default y moverlo a la carpeta de captura en el handler
+			// Ya que una nota rápida en Zettelkasten no es una nota permanente
+			// Y aunque no tenga referencia, me ayuda a sacar mis pensamientos rápido
+			"label": "✏️ Apunte Rápido",
+			"folder": "", 
+			"handler": async (tp, template) => await tp.user.captureHandler(tp, template), 
+		},
+		*/
+
+	};
+	return Object.freeze(types);
+};
