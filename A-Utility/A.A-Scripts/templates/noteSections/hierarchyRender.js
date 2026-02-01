@@ -7,14 +7,12 @@
 
 module.exports = async (tp, draft) => {
     var render = [];
-    var comment = "%%";
-
-    render.push(comment);
+    render.push(`\n`);
     render.push(`⬆️ (categorías:: )`);
     render.push("↔️ (relacionado:: )");
     render.push("---");
     render.push("< (previas::) | (siguientes:: ) >");
-    render.push(comment);
+    render.push(`\n`);
     
     return render.join("\n\n");
 };
