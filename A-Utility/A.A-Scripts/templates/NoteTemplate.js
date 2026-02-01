@@ -42,9 +42,9 @@ module.exports = (tp) => {
 					labels, keys, false, "Selecciona un tipo");
 			};
 	
-			this.meta.type = typeMatch(this.meta.folder) || await typeSelector()  || "default";
+			this.meta.type = typeMatch(this.getFolder()) || await typeSelector()  || "default";
 			
-			await TYPES[this.meta.type]?.handler(tp, this);
+			await TYPES[this.getType()]?.handler(tp, this);
 		}
 	
 	    async render() {
@@ -77,6 +77,7 @@ module.exports = (tp) => {
         getType(){
             return this.meta.type;
         }
+
         async setFolder(folder){
             this.meta.folder = folder;
             await this.syncFolder();
