@@ -21,7 +21,6 @@ module.exports = () => {
 			"label": "📇 Ficha",
 			"content": async (tp, template) => await tp.user.indexcardRender(tp, template)
 			},	
-		/*
 		"documentation": {
 			"label": "📃 Documentación",
 			"content": async (tp, template) => await tp.user.documentationRender(tp, template)
@@ -34,6 +33,7 @@ module.exports = () => {
 			"label": "💄 Style",
 			"content": async (tp, template) => await tp.user.styleRender(tp, template)
 		},
+		/*
 		"apuntes": {
 			"label": "✏️ Apuntes", 
 			"content": async (tp, template) => await tp.user.apuntesRender(tp, template)
