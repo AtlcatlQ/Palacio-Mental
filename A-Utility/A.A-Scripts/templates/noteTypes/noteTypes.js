@@ -1,19 +1,19 @@
 /**
  * @description Diccionario de Tipos de Notas
- * @returns {Object} Tipos de Notas posibles con sus respectivas seciones y metadatos
+ * @returns {Object} Definición de los distintos Tipos de Notas
  */
 
 module.exports = () => {
 	const types = {
 		/*
-		// Personal
+		// ㊙️ PERSONAL
 		"personal": {
 			"label": "㊙️ Personal",
 			"folder": "5-REGISTRO", 
 			"handler": async (tp, template) => await tp.user.personalHandler(tp, template), 
 		},
 
-		// P. A. R. A.
+		// 📔 P. A. R. A.
 		"area": {
 			"label": "🪐 ÁREA",
 			"folder": "2-AREAS", 
@@ -26,7 +26,7 @@ module.exports = () => {
 		},
 		*/
 
-		// Workflow
+		// ♻️ WORKFLOW
 		"documentation": {
 			"label": "📃 Documentación Interna",
 			"folder": "6-Flujo/6.0-Documentacion-Interna",
@@ -34,7 +34,7 @@ module.exports = () => {
 		},
 
 		/*
-		// Configuration
+		// ⚙️ CONFIGURATION
 		"classes": {
 			"label": "🗂️ Clase",
 			"folder": "A-Utility/A.1-Classes", 
@@ -55,14 +55,15 @@ module.exports = () => {
 			"folder": "A-Utility/A.5-Snippets", 
 			"handler": async (tp, template) => await tp.user.snippetsHandler(tp, template), 
 		},
-		// Writing
+
+		// ✍️ WRITING
 		"writing": {
 			"label": "✍️ Escrito",
 			"folder": "7-Crisol-de-Escritura/7.A-Manuscritos", 
 			"handler": async (tp, template) => await tp.user.writingHandler(tp, template), 
 		},
 
-		// Zettelkasten
+		// 🗃️ ZETTELKASTEN
 		"capture": {
 			"label": "📥 Nota de Captura",
 			"folder": "0-INBOX/0.1-Captura", 
@@ -84,7 +85,7 @@ module.exports = () => {
 			"handler": async (tp, template) => await tp.user.captureHandler(tp, template), 
 		},
 		*/
-
 	};
+
 	return Object.freeze(types);
 };
