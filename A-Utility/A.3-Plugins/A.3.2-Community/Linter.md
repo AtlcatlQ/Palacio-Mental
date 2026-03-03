@@ -10,7 +10,7 @@ aliases:
   - Linter (Obsidian Plugin)
 publish: true
 created: 2024-10-02T01:00:47
-modified: 2025-07-10T17:14:31
+modified: 2026-02-27T17:56:04
 uses:
   - 🔦
 ---
@@ -39,6 +39,7 @@ uses:
 - Display message on lint: `TRUE` *(Default)*
 - Lint on File Change `TRUE`
 - Display Lint on File Change Message: `TRUE`
+- Suppress Message When No Change: `FALSE`
 - Override Locale: `Same as system` (Default)
 - YAML aliases section style: `multi-line`
 - YAML tags section style: `multi-line`
@@ -146,6 +147,7 @@ uses:
 
 - Footnote after Punctuation: `TRUE`
 - Move Footnotes to the bottom: `FALSE` *(Default)*
+	- Include Blank Line Between Footnotes: `FALSE`
 - Re-Index Footnotes: `FALSE`*(Default)*
 
 ## Content
