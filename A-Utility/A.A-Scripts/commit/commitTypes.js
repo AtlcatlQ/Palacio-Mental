@@ -16,7 +16,6 @@ module.exports = () => {
 					"verbs": {
 						"DISTILL": "Añadir contenido a una Permanent note, a partir de una Nota de Captura",
 						"SPLIT": "Dividir una nota en dos notas más específicas (mayor atomicidad)",
-						"MERGE": "Combinar dos notas de temas similares en una misma (mayor claridad)"
 					}
 				},
 				"capture": {
@@ -51,9 +50,7 @@ module.exports = () => {
 					"verbs": {}
 				}
 			},
-			"verbs": {
-				"UPDATE": "Actualizar el modulo"
-			}
+			"verbs": {}
 		},
 		"config": {
 			"label": "⚙️ Config",

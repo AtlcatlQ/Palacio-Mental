@@ -14,7 +14,9 @@ module.exports = () => {
 		"LINT": "Corrección de formato (Usando Linter)",
 		"REMOVE": "Eliminar algo (genérico)",
 		"REVERT": "Regresar algo a una versión anterior",
-		"MOVE": "Cambiar un fichero de carpeta (Genérico)"
+		"MOVE": "Cambiar un fichero de carpeta (Genérico)",
+		"UPDATE": "",
+		"MERGE": ""
 	};
 	return verbs;
 }
