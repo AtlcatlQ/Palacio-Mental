@@ -65,6 +65,10 @@ module.exports = () => {
 					"label": "📱 Mobile",
 					"verbs": {}
 				},
+				"publish": {
+					"label": "📰 Publish",
+					"verbs": {}
+				},
 				"hotkeys": {
 					"label": "⌨️ Hotkeys",
 					"verbs": {}
