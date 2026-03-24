@@ -48,6 +48,10 @@ module.exports = () => {
 				"writing": {
 					"label": "✍️ Writing",
 					"verbs": {}
+				},
+				"curriculum": {
+					"label": "📄 Curriculum",
+					"verbs": {}
 				}
 			},
 			"verbs": {}
