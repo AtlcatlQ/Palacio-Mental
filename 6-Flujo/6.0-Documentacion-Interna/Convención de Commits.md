@@ -50,6 +50,7 @@ Como cada uno de los niveles de funcionamiento de la vault afectan a partes dist
 
 - **💻 Desktop:** Configuración General de Obsidian
 - **📱 Mobile:** Configuración de Obsidian en Android
+- **📰 Publish:** Cambios en la forma en cómo se pública 
 - **⌨️ Hotkeys:** Cambiar, añadir o modificar atajos.
 	- **Vim:** Edición de mappings en `.vimrc`
 - **🔌 Plugins:** gestión de plugins.
