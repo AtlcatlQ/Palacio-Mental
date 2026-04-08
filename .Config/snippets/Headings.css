@@ -1,4 +1,4 @@
-@font-face { font-family: "Rubik"; src: url("/Fuentes/Rubik.ttf"); }
+@font-face { font-family: "Rubik"; src: url("/typefaces/Rubik.ttf"); }
 
 h1, .markdown-rendered h1, h2, .markdown-rendered h2, h3, .markdown-rendered h3, h4, .markdown-rendered h4, h5, .markdown-rendered h5, h6, .markdown-rendered h6 {
 	font-family: "Rubik";
