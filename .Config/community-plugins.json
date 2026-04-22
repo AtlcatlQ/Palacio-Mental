@@ -26,5 +26,6 @@
   "templater-obsidian",
   "quickadd",
   "settings-search",
-  "obsidian-quiet-outline"
+  "obsidian-quiet-outline",
+  "automatic-table-of-contents"
 ]
