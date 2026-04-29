@@ -197,41 +197,6 @@
       ]
     },
     {
-      "command": "quickadd:choice:1f903bf3-022b-43f1-acde-4f98f643e312",
-      "chords": [
-        "A-KeyD",
-        "KeyD"
-      ]
-    },
-    {
-      "command": "quickadd:choice:32071c4c-d54b-4c2d-a212-c05d844d8a75",
-      "chords": [
-        "A-S-KeyD",
-        "KeyH"
-      ]
-    },
-    {
-      "command": "quickadd:choice:f2166ec1-69df-426d-b0f5-377026cf7e9e",
-      "chords": [
-        "A-S-KeyD",
-        "KeyL"
-      ]
-    },
-    {
-      "command": "quickadd:choice:84a30a7d-53e2-4d91-b97b-ee904f9fcb70",
-      "chords": [
-        "A-KeyD",
-        "S-KeyD"
-      ]
-    },
-    {
-      "command": "quickadd:choice:2a948dfb-00de-4bc6-a54b-e5980536c9db",
-      "chords": [
-        "A-S-KeyD",
-        "KeyA"
-      ]
-    },
-    {
       "command": "workspace:close-others-tab-group",
       "chords": [
         "C-A-KeyW",
@@ -271,34 +236,6 @@
       "chords": [
         "C-A-KeyW",
         "KeyD"
-      ]
-    },
-    {
-      "command": "quickadd:choice:7ec9198c-7ef2-4bdc-89ec-4147f3b6f3e6",
-      "chords": [
-        "A-S-KeyD",
-        "KeyM"
-      ]
-    },
-    {
-      "command": "media-extended:set-speed-2x",
-      "chords": [
-        "C-S-KeyM",
-        "KeyD"
-      ]
-    },
-    {
-      "command": "media-extended:set-speed-3x",
-      "chords": [
-        "C-S-KeyM",
-        "KeyT"
-      ]
-    },
-    {
-      "command": "media-extended:set-speed-0.25x",
-      "chords": [
-        "C-S-KeyM",
-        "KeyQ"
       ]
     }
   ]
