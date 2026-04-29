@@ -42,7 +42,7 @@ modified: 2025-07-04T13:39:34
 |   `^`   | [[Command Palette\|Commands]] list mode trigger              |
 |   `/`   | Vault list mode trigger                                      |
 
-**Nota:** Utilizo estos símbolos para que no me generen conflicto con los [[Tipos de Ficheros 1#Prefijos|prefijos]] que utilizo dentro de la vault.
+**Nota:** Utilizo estos símbolos para que no me generen conflicto con los [[Tipos de Ficheros#Prefijos|prefijos]] que utilizo dentro de la vault.
 
 # ⚙️ Configuración
 
