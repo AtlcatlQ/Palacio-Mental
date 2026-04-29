@@ -325,7 +325,9 @@
     "media-extended:save-screenshot-clip",
     "media-extended:take-screenshot",
     "media-extended:mx-auth-login",
-    "media-extended:clear-youtube-coockies"
+    "media-extended:clear-youtube-coockies",
+    "quickadd:choice:7ee68c97-7a73-4fe4-8ff3-9c1edd7ec3cb",
+    "quickadd:choice:e5d3ba8e-5ba2-4c98-bb99-f4011c503b7a"
   ],
   "hiddenFiles": [],
   "hiddenTags": [],

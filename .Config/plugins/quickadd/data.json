@@ -29,6 +29,109 @@
       },
       "fileExistsMode": "Overwrite the file",
       "setFileExistsBehavior": true
+    },
+    {
+      "id": "1978742b-7485-4e4c-97be-dcb584a4181a",
+      "name": "㊙️ Personales",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "e5d3ba8e-5ba2-4c98-bb99-f4011c503b7a",
+          "name": " 📒 Bitácora",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIA/{{DATE}}",
+          "captureToActiveFile": false,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utility/A.2-Templates/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "- **{{time:HH:mm}}:** {{value:📒 Bitácora}} ^{{time:HHmmss}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        },
+        {
+          "id": "7ee68c97-7a73-4fe4-8ff3-9c1edd7ec3cb",
+          "name": "🛟 Resaltado",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "5-REGISTRO/5.1-DIARIA/{{DATE}}",
+          "captureToActiveFile": false,
+          "captureToCanvasNodeId": "",
+          "activeFileWritePosition": "cursor",
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "A-Utility/A.2-Templates/A.2.2-Carpetas/A.2.2.5-Temporales/5.1-Nota Diaria.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": "- **{{time}} -** 🛟 (Resaltado:: {{VALUE:🛟 Resaltado}}) ^{{time:HHmmss}}"
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "# 📒 Bitácora",
+            "insertAtEnd": true,
+            "considerSubsections": false,
+            "createIfNotFound": true,
+            "createIfNotFoundLocation": "bottom",
+            "inline": false,
+            "replaceExisting": false,
+            "blankLineAfterMatchMode": "auto"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "templater": {
+            "afterCapture": "none"
+          }
+        }
+      ],
+      "collapsed": false
     }
   ],
   "inputPrompt": "single-line",
