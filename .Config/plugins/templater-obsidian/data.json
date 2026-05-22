@@ -13,12 +13,7 @@
   "shell_path": "",
   "user_scripts_folder": "A-Utility/A.A-Scripts",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "/",
-      "template": "A-Utility/A.2-Templates/NUEVA NOTA.md"
-    }
-  ],
+  "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [
     {
@@ -30,5 +25,10 @@
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [],
   "startup_templates": [],
-  "intellisense_render": 1
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
 }
