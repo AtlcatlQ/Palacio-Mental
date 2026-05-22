@@ -27,8 +27,10 @@
         "mode": "default",
         "focus": true
       },
-      "fileExistsMode": "Overwrite the file",
-      "setFileExistsBehavior": true
+      "fileExistsBehavior": {
+        "kind": "apply",
+        "mode": "overwrite"
+      }
     },
     {
       "id": "1978742b-7485-4e4c-97be-dcb584a4181a",
@@ -140,7 +142,7 @@
   "devMode": false,
   "templateFolderPath": "A-Utility/A.2-Templates",
   "announceUpdates": "major",
-  "version": "2.12.0",
+  "version": "2.12.1",
   "globalVariables": {},
   "onePageInputEnabled": false,
   "disableOnlineFeatures": true,
@@ -226,6 +228,8 @@
     "migrateFileOpeningSettings": true,
     "setProviderModelDiscoveryMode": true,
     "backfillFileOpeningDefaults": true,
-    "migrateProviderApiKeysToSecretStorage": true
-  }
+    "migrateProviderApiKeysToSecretStorage": true,
+    "consolidateFileExistsBehavior": true
+  },
+  "macros": []
 }
